@@ -1,0 +1,7310 @@
+[
+  {
+    "frame": 0,
+    "class": "car",
+    "confidence": 0.9052159190177917,
+    "bbox": [
+      191,
+      633,
+      587,
+      801
+    ],
+    "timestamp": "2025-08-15 17:27:54.202748",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 0,
+    "class": "car",
+    "confidence": 0.8953880071640015,
+    "bbox": [
+      447,
+      680,
+      954,
+      917
+    ],
+    "timestamp": "2025-08-15 17:27:54.203749",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 0,
+    "class": "car",
+    "confidence": 0.853602945804596,
+    "bbox": [
+      103,
+      549,
+      388,
+      677
+    ],
+    "timestamp": "2025-08-15 17:27:54.203749",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 1,
+    "class": "car",
+    "confidence": 0.9087253212928772,
+    "bbox": [
+      185,
+      633,
+      584,
+      801
+    ],
+    "timestamp": "2025-08-15 17:27:54.274428",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 1,
+    "class": "car",
+    "confidence": 0.8890244364738464,
+    "bbox": [
+      443,
+      681,
+      951,
+      919
+    ],
+    "timestamp": "2025-08-15 17:27:54.274428",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 1,
+    "class": "car",
+    "confidence": 0.8580671548843384,
+    "bbox": [
+      106,
+      546,
+      386,
+      678
+    ],
+    "timestamp": "2025-08-15 17:27:54.274428",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 1,
+    "class": "car",
+    "confidence": 0.4166156053543091,
+    "bbox": [
+      75,
+      582,
+      125,
+      653
+    ],
+    "timestamp": "2025-08-15 17:27:54.275428",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 1,
+    "class": "chair",
+    "confidence": 0.3366389274597168,
+    "bbox": [
+      0,
+      1817,
+      110,
+      1919
+    ],
+    "timestamp": "2025-08-15 17:27:54.275428",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 1,
+    "class": "car",
+    "confidence": 0.3257511556148529,
+    "bbox": [
+      77,
+      574,
+      155,
+      652
+    ],
+    "timestamp": "2025-08-15 17:27:54.275428",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 2,
+    "class": "car",
+    "confidence": 0.908537745475769,
+    "bbox": [
+      185,
+      633,
+      584,
+      801
+    ],
+    "timestamp": "2025-08-15 17:27:54.335104",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 2,
+    "class": "car",
+    "confidence": 0.8913695812225342,
+    "bbox": [
+      444,
+      683,
+      953,
+      917
+    ],
+    "timestamp": "2025-08-15 17:27:54.335104",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 2,
+    "class": "car",
+    "confidence": 0.858197808265686,
+    "bbox": [
+      105,
+      546,
+      386,
+      677
+    ],
+    "timestamp": "2025-08-15 17:27:54.336104",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 2,
+    "class": "car",
+    "confidence": 0.42050570249557495,
+    "bbox": [
+      75,
+      581,
+      125,
+      653
+    ],
+    "timestamp": "2025-08-15 17:27:54.336104",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 2,
+    "class": "car",
+    "confidence": 0.3241952657699585,
+    "bbox": [
+      77,
+      574,
+      155,
+      652
+    ],
+    "timestamp": "2025-08-15 17:27:54.336104",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 3,
+    "class": "car",
+    "confidence": 0.9082741141319275,
+    "bbox": [
+      185,
+      633,
+      584,
+      801
+    ],
+    "timestamp": "2025-08-15 17:27:54.401782",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 3,
+    "class": "car",
+    "confidence": 0.8911626935005188,
+    "bbox": [
+      444,
+      683,
+      952,
+      917
+    ],
+    "timestamp": "2025-08-15 17:27:54.402782",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 3,
+    "class": "car",
+    "confidence": 0.8579899668693542,
+    "bbox": [
+      105,
+      546,
+      386,
+      677
+    ],
+    "timestamp": "2025-08-15 17:27:54.402782",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 3,
+    "class": "car",
+    "confidence": 0.4194949269294739,
+    "bbox": [
+      75,
+      582,
+      125,
+      653
+    ],
+    "timestamp": "2025-08-15 17:27:54.402782",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 3,
+    "class": "car",
+    "confidence": 0.32165974378585815,
+    "bbox": [
+      77,
+      574,
+      155,
+      652
+    ],
+    "timestamp": "2025-08-15 17:27:54.402782",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 4,
+    "class": "car",
+    "confidence": 0.9074966907501221,
+    "bbox": [
+      185,
+      633,
+      584,
+      801
+    ],
+    "timestamp": "2025-08-15 17:27:54.457458",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 4,
+    "class": "car",
+    "confidence": 0.8904478549957275,
+    "bbox": [
+      443,
+      683,
+      952,
+      917
+    ],
+    "timestamp": "2025-08-15 17:27:54.458458",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 4,
+    "class": "car",
+    "confidence": 0.8569728136062622,
+    "bbox": [
+      105,
+      547,
+      386,
+      677
+    ],
+    "timestamp": "2025-08-15 17:27:54.458458",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 4,
+    "class": "car",
+    "confidence": 0.4129728376865387,
+    "bbox": [
+      75,
+      582,
+      125,
+      653
+    ],
+    "timestamp": "2025-08-15 17:27:54.458458",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 4,
+    "class": "car",
+    "confidence": 0.32189449667930603,
+    "bbox": [
+      77,
+      574,
+      153,
+      652
+    ],
+    "timestamp": "2025-08-15 17:27:54.458458",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 5,
+    "class": "car",
+    "confidence": 0.9080811738967896,
+    "bbox": [
+      185,
+      633,
+      584,
+      801
+    ],
+    "timestamp": "2025-08-15 17:27:54.518134",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 5,
+    "class": "car",
+    "confidence": 0.8896494507789612,
+    "bbox": [
+      443,
+      683,
+      952,
+      917
+    ],
+    "timestamp": "2025-08-15 17:27:54.518134",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 5,
+    "class": "car",
+    "confidence": 0.8571208119392395,
+    "bbox": [
+      105,
+      546,
+      386,
+      678
+    ],
+    "timestamp": "2025-08-15 17:27:54.518134",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 5,
+    "class": "car",
+    "confidence": 0.4153415560722351,
+    "bbox": [
+      75,
+      582,
+      125,
+      653
+    ],
+    "timestamp": "2025-08-15 17:27:54.519134",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 5,
+    "class": "car",
+    "confidence": 0.32117965817451477,
+    "bbox": [
+      77,
+      574,
+      153,
+      652
+    ],
+    "timestamp": "2025-08-15 17:27:54.519134",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 6,
+    "class": "car",
+    "confidence": 0.9121674299240112,
+    "bbox": [
+      182,
+      632,
+      582,
+      801
+    ],
+    "timestamp": "2025-08-15 17:27:54.573810",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 6,
+    "class": "car",
+    "confidence": 0.8915582895278931,
+    "bbox": [
+      440,
+      679,
+      946,
+      920
+    ],
+    "timestamp": "2025-08-15 17:27:54.574810",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 6,
+    "class": "car",
+    "confidence": 0.8689960241317749,
+    "bbox": [
+      104,
+      548,
+      382,
+      677
+    ],
+    "timestamp": "2025-08-15 17:27:54.574810",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 6,
+    "class": "car",
+    "confidence": 0.3384912610054016,
+    "bbox": [
+      72,
+      581,
+      122,
+      653
+    ],
+    "timestamp": "2025-08-15 17:27:54.574810",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 6,
+    "class": "chair",
+    "confidence": 0.33547309041023254,
+    "bbox": [
+      0,
+      1817,
+      106,
+      1919
+    ],
+    "timestamp": "2025-08-15 17:27:54.574810",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 7,
+    "class": "car",
+    "confidence": 0.9132459759712219,
+    "bbox": [
+      182,
+      630,
+      580,
+      799
+    ],
+    "timestamp": "2025-08-15 17:27:54.628485",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 7,
+    "class": "car",
+    "confidence": 0.8881164193153381,
+    "bbox": [
+      437,
+      678,
+      943,
+      919
+    ],
+    "timestamp": "2025-08-15 17:27:54.628485",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 7,
+    "class": "car",
+    "confidence": 0.8340305089950562,
+    "bbox": [
+      104,
+      547,
+      375,
+      678
+    ],
+    "timestamp": "2025-08-15 17:27:54.628485",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 7,
+    "class": "chair",
+    "confidence": 0.4030725061893463,
+    "bbox": [
+      0,
+      1816,
+      103,
+      1919
+    ],
+    "timestamp": "2025-08-15 17:27:54.629486",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 8,
+    "class": "car",
+    "confidence": 0.9121016263961792,
+    "bbox": [
+      179,
+      630,
+      576,
+      797
+    ],
+    "timestamp": "2025-08-15 17:27:54.691162",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 8,
+    "class": "car",
+    "confidence": 0.8843094706535339,
+    "bbox": [
+      431,
+      678,
+      941,
+      919
+    ],
+    "timestamp": "2025-08-15 17:27:54.691162",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 8,
+    "class": "car",
+    "confidence": 0.8082364797592163,
+    "bbox": [
+      87,
+      550,
+      371,
+      676
+    ],
+    "timestamp": "2025-08-15 17:27:54.691162",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 8,
+    "class": "chair",
+    "confidence": 0.3561183512210846,
+    "bbox": [
+      0,
+      1816,
+      100,
+      1919
+    ],
+    "timestamp": "2025-08-15 17:27:54.692162",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 9,
+    "class": "car",
+    "confidence": 0.9078754782676697,
+    "bbox": [
+      174,
+      631,
+      573,
+      797
+    ],
+    "timestamp": "2025-08-15 17:27:54.743837",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 9,
+    "class": "car",
+    "confidence": 0.8889259099960327,
+    "bbox": [
+      428,
+      680,
+      937,
+      917
+    ],
+    "timestamp": "2025-08-15 17:27:54.744837",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 9,
+    "class": "car",
+    "confidence": 0.8003308773040771,
+    "bbox": [
+      87,
+      552,
+      366,
+      675
+    ],
+    "timestamp": "2025-08-15 17:27:54.744837",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 10,
+    "class": "car",
+    "confidence": 0.8919204473495483,
+    "bbox": [
+      170,
+      631,
+      568,
+      797
+    ],
+    "timestamp": "2025-08-15 17:27:54.796512",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 10,
+    "class": "car",
+    "confidence": 0.862876296043396,
+    "bbox": [
+      426,
+      678,
+      933,
+      917
+    ],
+    "timestamp": "2025-08-15 17:27:54.796512",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 10,
+    "class": "car",
+    "confidence": 0.8053005933761597,
+    "bbox": [
+      77,
+      552,
+      361,
+      675
+    ],
+    "timestamp": "2025-08-15 17:27:54.797512",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 11,
+    "class": "car",
+    "confidence": 0.9102447628974915,
+    "bbox": [
+      161,
+      633,
+      562,
+      796
+    ],
+    "timestamp": "2025-08-15 17:27:54.853187",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 11,
+    "class": "car",
+    "confidence": 0.8528558015823364,
+    "bbox": [
+      421,
+      677,
+      924,
+      916
+    ],
+    "timestamp": "2025-08-15 17:27:54.853187",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 11,
+    "class": "car",
+    "confidence": 0.8483912944793701,
+    "bbox": [
+      73,
+      550,
+      358,
+      677
+    ],
+    "timestamp": "2025-08-15 17:27:54.854187",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 11,
+    "class": "chair",
+    "confidence": 0.30180859565734863,
+    "bbox": [
+      0,
+      1821,
+      90,
+      1919
+    ],
+    "timestamp": "2025-08-15 17:27:54.854187",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 12,
+    "class": "car",
+    "confidence": 0.9021582007408142,
+    "bbox": [
+      156,
+      633,
+      557,
+      796
+    ],
+    "timestamp": "2025-08-15 17:27:54.909863",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 12,
+    "class": "car",
+    "confidence": 0.8945179581642151,
+    "bbox": [
+      416,
+      679,
+      921,
+      917
+    ],
+    "timestamp": "2025-08-15 17:27:54.910863",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 12,
+    "class": "car",
+    "confidence": 0.8332441449165344,
+    "bbox": [
+      68,
+      549,
+      353,
+      676
+    ],
+    "timestamp": "2025-08-15 17:27:54.910863",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 13,
+    "class": "car",
+    "confidence": 0.9076725244522095,
+    "bbox": [
+      154,
+      632,
+      552,
+      796
+    ],
+    "timestamp": "2025-08-15 17:27:54.964539",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 13,
+    "class": "car",
+    "confidence": 0.8830878734588623,
+    "bbox": [
+      411,
+      679,
+      917,
+      916
+    ],
+    "timestamp": "2025-08-15 17:27:54.964539",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 13,
+    "class": "car",
+    "confidence": 0.8444951176643372,
+    "bbox": [
+      60,
+      547,
+      350,
+      676
+    ],
+    "timestamp": "2025-08-15 17:27:54.964539",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 13,
+    "class": "car",
+    "confidence": 0.35395359992980957,
+    "bbox": [
+      38,
+      582,
+      84,
+      649
+    ],
+    "timestamp": "2025-08-15 17:27:54.965539",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 13,
+    "class": "chair",
+    "confidence": 0.30324071645736694,
+    "bbox": [
+      1,
+      1819,
+      78,
+      1919
+    ],
+    "timestamp": "2025-08-15 17:27:54.965539",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 14,
+    "class": "car",
+    "confidence": 0.8883841037750244,
+    "bbox": [
+      147,
+      630,
+      547,
+      797
+    ],
+    "timestamp": "2025-08-15 17:27:55.017213",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 14,
+    "class": "car",
+    "confidence": 0.8767451047897339,
+    "bbox": [
+      402,
+      677,
+      910,
+      918
+    ],
+    "timestamp": "2025-08-15 17:27:55.017213",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 14,
+    "class": "car",
+    "confidence": 0.8520970940589905,
+    "bbox": [
+      61,
+      546,
+      347,
+      676
+    ],
+    "timestamp": "2025-08-15 17:27:55.018213",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 14,
+    "class": "car",
+    "confidence": 0.36561083793640137,
+    "bbox": [
+      33,
+      584,
+      81,
+      652
+    ],
+    "timestamp": "2025-08-15 17:27:55.018213",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 15,
+    "class": "car",
+    "confidence": 0.8944764733314514,
+    "bbox": [
+      140,
+      631,
+      542,
+      797
+    ],
+    "timestamp": "2025-08-15 17:27:55.064887",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 15,
+    "class": "car",
+    "confidence": 0.8784797191619873,
+    "bbox": [
+      398,
+      673,
+      904,
+      916
+    ],
+    "timestamp": "2025-08-15 17:27:55.064887",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 15,
+    "class": "car",
+    "confidence": 0.8638624548912048,
+    "bbox": [
+      58,
+      547,
+      341,
+      676
+    ],
+    "timestamp": "2025-08-15 17:27:55.065887",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 16,
+    "class": "car",
+    "confidence": 0.9014626741409302,
+    "bbox": [
+      135,
+      629,
+      536,
+      795
+    ],
+    "timestamp": "2025-08-15 17:27:55.114561",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 16,
+    "class": "car",
+    "confidence": 0.889348566532135,
+    "bbox": [
+      392,
+      672,
+      900,
+      916
+    ],
+    "timestamp": "2025-08-15 17:27:55.114561",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 16,
+    "class": "car",
+    "confidence": 0.843678891658783,
+    "bbox": [
+      55,
+      546,
+      334,
+      676
+    ],
+    "timestamp": "2025-08-15 17:27:55.114561",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 17,
+    "class": "car",
+    "confidence": 0.9204856753349304,
+    "bbox": [
+      130,
+      629,
+      530,
+      795
+    ],
+    "timestamp": "2025-08-15 17:27:55.166235",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 17,
+    "class": "car",
+    "confidence": 0.8852484226226807,
+    "bbox": [
+      389,
+      673,
+      895,
+      915
+    ],
+    "timestamp": "2025-08-15 17:27:55.167236",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 17,
+    "class": "car",
+    "confidence": 0.835615336894989,
+    "bbox": [
+      37,
+      550,
+      324,
+      677
+    ],
+    "timestamp": "2025-08-15 17:27:55.167236",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 17,
+    "class": "car",
+    "confidence": 0.33629336953163147,
+    "bbox": [
+      10,
+      580,
+      61,
+      650
+    ],
+    "timestamp": "2025-08-15 17:27:55.167236",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 18,
+    "class": "car",
+    "confidence": 0.8990725874900818,
+    "bbox": [
+      124,
+      630,
+      523,
+      796
+    ],
+    "timestamp": "2025-08-15 17:27:55.213909",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 18,
+    "class": "car",
+    "confidence": 0.8757545948028564,
+    "bbox": [
+      381,
+      674,
+      887,
+      916
+    ],
+    "timestamp": "2025-08-15 17:27:55.213909",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 18,
+    "class": "car",
+    "confidence": 0.8151593804359436,
+    "bbox": [
+      34,
+      549,
+      316,
+      677
+    ],
+    "timestamp": "2025-08-15 17:27:55.213909",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 19,
+    "class": "car",
+    "confidence": 0.9189304113388062,
+    "bbox": [
+      112,
+      631,
+      517,
+      796
+    ],
+    "timestamp": "2025-08-15 17:27:55.265584",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 19,
+    "class": "car",
+    "confidence": 0.856232762336731,
+    "bbox": [
+      376,
+      676,
+      874,
+      915
+    ],
+    "timestamp": "2025-08-15 17:27:55.265584",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 19,
+    "class": "car",
+    "confidence": 0.7908034920692444,
+    "bbox": [
+      24,
+      550,
+      310,
+      677
+    ],
+    "timestamp": "2025-08-15 17:27:55.265584",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 20,
+    "class": "car",
+    "confidence": 0.9058119654655457,
+    "bbox": [
+      106,
+      631,
+      508,
+      796
+    ],
+    "timestamp": "2025-08-15 17:27:55.318258",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 20,
+    "class": "car",
+    "confidence": 0.8567352294921875,
+    "bbox": [
+      12,
+      548,
+      304,
+      677
+    ],
+    "timestamp": "2025-08-15 17:27:55.319259",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 20,
+    "class": "car",
+    "confidence": 0.8520422577857971,
+    "bbox": [
+      368,
+      675,
+      866,
+      913
+    ],
+    "timestamp": "2025-08-15 17:27:55.319259",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 21,
+    "class": "car",
+    "confidence": 0.8837701082229614,
+    "bbox": [
+      99,
+      630,
+      501,
+      797
+    ],
+    "timestamp": "2025-08-15 17:27:55.379936",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 21,
+    "class": "car",
+    "confidence": 0.8837389349937439,
+    "bbox": [
+      362,
+      677,
+      860,
+      915
+    ],
+    "timestamp": "2025-08-15 17:27:55.379936",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 21,
+    "class": "car",
+    "confidence": 0.8516983389854431,
+    "bbox": [
+      10,
+      546,
+      299,
+      675
+    ],
+    "timestamp": "2025-08-15 17:27:55.379936",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 22,
+    "class": "car",
+    "confidence": 0.9022862911224365,
+    "bbox": [
+      88,
+      630,
+      495,
+      797
+    ],
+    "timestamp": "2025-08-15 17:27:55.428610",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 22,
+    "class": "car",
+    "confidence": 0.8733760714530945,
+    "bbox": [
+      353,
+      679,
+      852,
+      915
+    ],
+    "timestamp": "2025-08-15 17:27:55.428610",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 22,
+    "class": "car",
+    "confidence": 0.8294767737388611,
+    "bbox": [
+      6,
+      546,
+      292,
+      675
+    ],
+    "timestamp": "2025-08-15 17:27:55.428610",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 23,
+    "class": "car",
+    "confidence": 0.8947640657424927,
+    "bbox": [
+      85,
+      629,
+      490,
+      798
+    ],
+    "timestamp": "2025-08-15 17:27:55.473282",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 23,
+    "class": "car",
+    "confidence": 0.8751882910728455,
+    "bbox": [
+      344,
+      674,
+      848,
+      913
+    ],
+    "timestamp": "2025-08-15 17:27:55.474283",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 23,
+    "class": "car",
+    "confidence": 0.8316260576248169,
+    "bbox": [
+      1,
+      549,
+      278,
+      675
+    ],
+    "timestamp": "2025-08-15 17:27:55.474283",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 24,
+    "class": "car",
+    "confidence": 0.9161679744720459,
+    "bbox": [
+      76,
+      629,
+      479,
+      796
+    ],
+    "timestamp": "2025-08-15 17:27:55.521957",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 24,
+    "class": "car",
+    "confidence": 0.8753690123558044,
+    "bbox": [
+      338,
+      676,
+      841,
+      914
+    ],
+    "timestamp": "2025-08-15 17:27:55.521957",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 24,
+    "class": "car",
+    "confidence": 0.835996150970459,
+    "bbox": [
+      1,
+      549,
+      271,
+      676
+    ],
+    "timestamp": "2025-08-15 17:27:55.522957",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 25,
+    "class": "car",
+    "confidence": 0.8908337354660034,
+    "bbox": [
+      65,
+      630,
+      473,
+      797
+    ],
+    "timestamp": "2025-08-15 17:27:55.569631",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 25,
+    "class": "car",
+    "confidence": 0.8617755770683289,
+    "bbox": [
+      330,
+      678,
+      829,
+      913
+    ],
+    "timestamp": "2025-08-15 17:27:55.569631",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 25,
+    "class": "car",
+    "confidence": 0.8117396235466003,
+    "bbox": [
+      0,
+      551,
+      262,
+      676
+    ],
+    "timestamp": "2025-08-15 17:27:55.569631",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 26,
+    "class": "car",
+    "confidence": 0.8899109959602356,
+    "bbox": [
+      58,
+      633,
+      462,
+      802
+    ],
+    "timestamp": "2025-08-15 17:27:55.617303",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 26,
+    "class": "car",
+    "confidence": 0.8527958989143372,
+    "bbox": [
+      320,
+      675,
+      821,
+      912
+    ],
+    "timestamp": "2025-08-15 17:27:55.617303",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 26,
+    "class": "car",
+    "confidence": 0.8372855186462402,
+    "bbox": [
+      1,
+      548,
+      255,
+      678
+    ],
+    "timestamp": "2025-08-15 17:27:55.617303",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 27,
+    "class": "car",
+    "confidence": 0.8909806609153748,
+    "bbox": [
+      48,
+      633,
+      453,
+      802
+    ],
+    "timestamp": "2025-08-15 17:27:55.667978",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 27,
+    "class": "car",
+    "confidence": 0.88188636302948,
+    "bbox": [
+      313,
+      678,
+      815,
+      914
+    ],
+    "timestamp": "2025-08-15 17:27:55.667978",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 27,
+    "class": "car",
+    "confidence": 0.8451586961746216,
+    "bbox": [
+      3,
+      544,
+      249,
+      679
+    ],
+    "timestamp": "2025-08-15 17:27:55.668979",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 28,
+    "class": "car",
+    "confidence": 0.9204176068305969,
+    "bbox": [
+      36,
+      632,
+      444,
+      802
+    ],
+    "timestamp": "2025-08-15 17:27:55.718653",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 28,
+    "class": "car",
+    "confidence": 0.8767551183700562,
+    "bbox": [
+      306,
+      677,
+      803,
+      912
+    ],
+    "timestamp": "2025-08-15 17:27:55.718653",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 28,
+    "class": "car",
+    "confidence": 0.8467694520950317,
+    "bbox": [
+      4,
+      546,
+      240,
+      682
+    ],
+    "timestamp": "2025-08-15 17:27:55.719653",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 29,
+    "class": "car",
+    "confidence": 0.9069862365722656,
+    "bbox": [
+      32,
+      633,
+      436,
+      802
+    ],
+    "timestamp": "2025-08-15 17:27:55.767326",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 29,
+    "class": "car",
+    "confidence": 0.88633793592453,
+    "bbox": [
+      297,
+      674,
+      800,
+      915
+    ],
+    "timestamp": "2025-08-15 17:27:55.767326",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 29,
+    "class": "car",
+    "confidence": 0.7938657402992249,
+    "bbox": [
+      5,
+      545,
+      229,
+      682
+    ],
+    "timestamp": "2025-08-15 17:27:55.768326",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 30,
+    "class": "car",
+    "confidence": 0.9048887491226196,
+    "bbox": [
+      21,
+      631,
+      429,
+      802
+    ],
+    "timestamp": "2025-08-15 17:27:55.815000",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 30,
+    "class": "car",
+    "confidence": 0.8811183571815491,
+    "bbox": [
+      288,
+      675,
+      787,
+      915
+    ],
+    "timestamp": "2025-08-15 17:27:55.815000",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 30,
+    "class": "car",
+    "confidence": 0.7761008739471436,
+    "bbox": [
+      0,
+      550,
+      218,
+      680
+    ],
+    "timestamp": "2025-08-15 17:27:55.816000",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 31,
+    "class": "car",
+    "confidence": 0.8992247581481934,
+    "bbox": [
+      11,
+      633,
+      418,
+      803
+    ],
+    "timestamp": "2025-08-15 17:27:55.860674",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 31,
+    "class": "car",
+    "confidence": 0.8728166222572327,
+    "bbox": [
+      279,
+      676,
+      778,
+      917
+    ],
+    "timestamp": "2025-08-15 17:27:55.860674",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 31,
+    "class": "car",
+    "confidence": 0.7960524559020996,
+    "bbox": [
+      0,
+      552,
+      207,
+      678
+    ],
+    "timestamp": "2025-08-15 17:27:55.861674",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 32,
+    "class": "car",
+    "confidence": 0.900160551071167,
+    "bbox": [
+      7,
+      633,
+      408,
+      805
+    ],
+    "timestamp": "2025-08-15 17:27:55.908347",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 32,
+    "class": "car",
+    "confidence": 0.8741425275802612,
+    "bbox": [
+      271,
+      680,
+      768,
+      916
+    ],
+    "timestamp": "2025-08-15 17:27:55.909347",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 32,
+    "class": "car",
+    "confidence": 0.7913858890533447,
+    "bbox": [
+      2,
+      550,
+      203,
+      677
+    ],
+    "timestamp": "2025-08-15 17:27:55.909347",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 33,
+    "class": "car",
+    "confidence": 0.8976758718490601,
+    "bbox": [
+      4,
+      633,
+      398,
+      806
+    ],
+    "timestamp": "2025-08-15 17:27:55.957021",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 33,
+    "class": "car",
+    "confidence": 0.873865008354187,
+    "bbox": [
+      261,
+      679,
+      761,
+      917
+    ],
+    "timestamp": "2025-08-15 17:27:55.958021",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 33,
+    "class": "car",
+    "confidence": 0.743330180644989,
+    "bbox": [
+      2,
+      549,
+      194,
+      674
+    ],
+    "timestamp": "2025-08-15 17:27:55.958021",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 34,
+    "class": "car",
+    "confidence": 0.9015244245529175,
+    "bbox": [
+      1,
+      634,
+      389,
+      808
+    ],
+    "timestamp": "2025-08-15 17:27:56.002695",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 34,
+    "class": "car",
+    "confidence": 0.8798062801361084,
+    "bbox": [
+      251,
+      678,
+      754,
+      917
+    ],
+    "timestamp": "2025-08-15 17:27:56.003695",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 34,
+    "class": "car",
+    "confidence": 0.6721509695053101,
+    "bbox": [
+      3,
+      547,
+      182,
+      669
+    ],
+    "timestamp": "2025-08-15 17:27:56.003695",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 35,
+    "class": "car",
+    "confidence": 0.8921122550964355,
+    "bbox": [
+      243,
+      679,
+      744,
+      920
+    ],
+    "timestamp": "2025-08-15 17:27:56.049367",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 35,
+    "class": "car",
+    "confidence": 0.8899943828582764,
+    "bbox": [
+      0,
+      634,
+      381,
+      807
+    ],
+    "timestamp": "2025-08-15 17:27:56.049367",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 35,
+    "class": "car",
+    "confidence": 0.6279371976852417,
+    "bbox": [
+      2,
+      547,
+      174,
+      673
+    ],
+    "timestamp": "2025-08-15 17:27:56.049367",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 36,
+    "class": "car",
+    "confidence": 0.9138761162757874,
+    "bbox": [
+      233,
+      682,
+      733,
+      920
+    ],
+    "timestamp": "2025-08-15 17:27:56.098042",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 36,
+    "class": "car",
+    "confidence": 0.8834027647972107,
+    "bbox": [
+      0,
+      635,
+      369,
+      810
+    ],
+    "timestamp": "2025-08-15 17:27:56.098042",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 36,
+    "class": "car",
+    "confidence": 0.6444893479347229,
+    "bbox": [
+      0,
+      551,
+      161,
+      673
+    ],
+    "timestamp": "2025-08-15 17:27:56.098042",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 37,
+    "class": "car",
+    "confidence": 0.905487596988678,
+    "bbox": [
+      223,
+      683,
+      724,
+      921
+    ],
+    "timestamp": "2025-08-15 17:27:56.146716",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 37,
+    "class": "car",
+    "confidence": 0.8689150214195251,
+    "bbox": [
+      0,
+      635,
+      358,
+      812
+    ],
+    "timestamp": "2025-08-15 17:27:56.146716",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 37,
+    "class": "car",
+    "confidence": 0.6632882356643677,
+    "bbox": [
+      0,
+      554,
+      152,
+      675
+    ],
+    "timestamp": "2025-08-15 17:27:56.146716",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 37,
+    "class": "traffic light",
+    "confidence": 0.3517243564128876,
+    "bbox": [
+      1,
+      1506,
+      955,
+      1919
+    ],
+    "timestamp": "2025-08-15 17:27:56.147716",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 38,
+    "class": "car",
+    "confidence": 0.8914963603019714,
+    "bbox": [
+      212,
+      682,
+      715,
+      923
+    ],
+    "timestamp": "2025-08-15 17:27:56.196389",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 38,
+    "class": "car",
+    "confidence": 0.8560879230499268,
+    "bbox": [
+      1,
+      636,
+      351,
+      812
+    ],
+    "timestamp": "2025-08-15 17:27:56.197390",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 38,
+    "class": "car",
+    "confidence": 0.6081352829933167,
+    "bbox": [
+      0,
+      556,
+      142,
+      673
+    ],
+    "timestamp": "2025-08-15 17:27:56.197390",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 39,
+    "class": "car",
+    "confidence": 0.8863502740859985,
+    "bbox": [
+      201,
+      680,
+      707,
+      923
+    ],
+    "timestamp": "2025-08-15 17:27:56.251065",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 39,
+    "class": "car",
+    "confidence": 0.8485586643218994,
+    "bbox": [
+      2,
+      638,
+      341,
+      814
+    ],
+    "timestamp": "2025-08-15 17:27:56.251065",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 39,
+    "class": "car",
+    "confidence": 0.7715000510215759,
+    "bbox": [
+      0,
+      558,
+      129,
+      675
+    ],
+    "timestamp": "2025-08-15 17:27:56.251065",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 40,
+    "class": "car",
+    "confidence": 0.8808212876319885,
+    "bbox": [
+      194,
+      682,
+      696,
+      927
+    ],
+    "timestamp": "2025-08-15 17:27:56.302740",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 40,
+    "class": "car",
+    "confidence": 0.8071348071098328,
+    "bbox": [
+      4,
+      641,
+      333,
+      813
+    ],
+    "timestamp": "2025-08-15 17:27:56.302740",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 40,
+    "class": "car",
+    "confidence": 0.5937572121620178,
+    "bbox": [
+      0,
+      555,
+      122,
+      673
+    ],
+    "timestamp": "2025-08-15 17:27:56.303740",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 41,
+    "class": "car",
+    "confidence": 0.897868275642395,
+    "bbox": [
+      183,
+      683,
+      684,
+      928
+    ],
+    "timestamp": "2025-08-15 17:27:56.352414",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 41,
+    "class": "car",
+    "confidence": 0.8132427334785461,
+    "bbox": [
+      4,
+      641,
+      322,
+      814
+    ],
+    "timestamp": "2025-08-15 17:27:56.352414",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 41,
+    "class": "car",
+    "confidence": 0.7864521145820618,
+    "bbox": [
+      0,
+      562,
+      110,
+      671
+    ],
+    "timestamp": "2025-08-15 17:27:56.353414",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 42,
+    "class": "car",
+    "confidence": 0.8931213021278381,
+    "bbox": [
+      175,
+      684,
+      675,
+      930
+    ],
+    "timestamp": "2025-08-15 17:27:56.401087",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 42,
+    "class": "car",
+    "confidence": 0.8145623803138733,
+    "bbox": [
+      4,
+      645,
+      309,
+      815
+    ],
+    "timestamp": "2025-08-15 17:27:56.401087",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 42,
+    "class": "car",
+    "confidence": 0.8057772517204285,
+    "bbox": [
+      0,
+      556,
+      99,
+      678
+    ],
+    "timestamp": "2025-08-15 17:27:56.402088",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 42,
+    "class": "car",
+    "confidence": 0.3464233875274658,
+    "bbox": [
+      1007,
+      366,
+      1078,
+      402
+    ],
+    "timestamp": "2025-08-15 17:27:56.402088",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 42,
+    "class": "train",
+    "confidence": 0.31534814834594727,
+    "bbox": [
+      1,
+      1505,
+      909,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:56.402088",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 43,
+    "class": "car",
+    "confidence": 0.9270788431167603,
+    "bbox": [
+      161,
+      686,
+      669,
+      928
+    ],
+    "timestamp": "2025-08-15 17:27:56.448762",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 43,
+    "class": "car",
+    "confidence": 0.8538058400154114,
+    "bbox": [
+      1,
+      643,
+      303,
+      815
+    ],
+    "timestamp": "2025-08-15 17:27:56.449762",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 43,
+    "class": "car",
+    "confidence": 0.6432384848594666,
+    "bbox": [
+      0,
+      560,
+      88,
+      676
+    ],
+    "timestamp": "2025-08-15 17:27:56.449762",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 43,
+    "class": "train",
+    "confidence": 0.37146255373954773,
+    "bbox": [
+      0,
+      1504,
+      918,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:56.450762",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 44,
+    "class": "car",
+    "confidence": 0.9195776581764221,
+    "bbox": [
+      151,
+      688,
+      658,
+      932
+    ],
+    "timestamp": "2025-08-15 17:27:56.497435",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 44,
+    "class": "car",
+    "confidence": 0.8517199754714966,
+    "bbox": [
+      1,
+      644,
+      287,
+      814
+    ],
+    "timestamp": "2025-08-15 17:27:56.498435",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 44,
+    "class": "car",
+    "confidence": 0.5465338826179504,
+    "bbox": [
+      1,
+      559,
+      77,
+      677
+    ],
+    "timestamp": "2025-08-15 17:27:56.498435",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 44,
+    "class": "car",
+    "confidence": 0.34037894010543823,
+    "bbox": [
+      973,
+      365,
+      1073,
+      405
+    ],
+    "timestamp": "2025-08-15 17:27:56.498435",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 45,
+    "class": "car",
+    "confidence": 0.8950108289718628,
+    "bbox": [
+      141,
+      688,
+      647,
+      934
+    ],
+    "timestamp": "2025-08-15 17:27:56.548109",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 45,
+    "class": "car",
+    "confidence": 0.84803706407547,
+    "bbox": [
+      0,
+      646,
+      280,
+      811
+    ],
+    "timestamp": "2025-08-15 17:27:56.549110",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 45,
+    "class": "car",
+    "confidence": 0.6086013317108154,
+    "bbox": [
+      0,
+      560,
+      68,
+      678
+    ],
+    "timestamp": "2025-08-15 17:27:56.549110",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 45,
+    "class": "train",
+    "confidence": 0.43406417965888977,
+    "bbox": [
+      2,
+      1506,
+      882,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:56.549110",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 45,
+    "class": "car",
+    "confidence": 0.32743680477142334,
+    "bbox": [
+      968,
+      366,
+      1070,
+      404
+    ],
+    "timestamp": "2025-08-15 17:27:56.550110",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 45,
+    "class": "car",
+    "confidence": 0.3051195442676544,
+    "bbox": [
+      1027,
+      363,
+      1076,
+      406
+    ],
+    "timestamp": "2025-08-15 17:27:56.550110",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 46,
+    "class": "car",
+    "confidence": 0.9001308083534241,
+    "bbox": [
+      131,
+      692,
+      631,
+      935
+    ],
+    "timestamp": "2025-08-15 17:27:56.601785",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 46,
+    "class": "car",
+    "confidence": 0.8412140011787415,
+    "bbox": [
+      3,
+      649,
+      268,
+      809
+    ],
+    "timestamp": "2025-08-15 17:27:56.602785",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 46,
+    "class": "car",
+    "confidence": 0.4877655804157257,
+    "bbox": [
+      0,
+      569,
+      59,
+      669
+    ],
+    "timestamp": "2025-08-15 17:27:56.602785",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 47,
+    "class": "car",
+    "confidence": 0.900391697883606,
+    "bbox": [
+      118,
+      692,
+      624,
+      934
+    ],
+    "timestamp": "2025-08-15 17:27:56.655459",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 47,
+    "class": "car",
+    "confidence": 0.7604959607124329,
+    "bbox": [
+      1,
+      649,
+      256,
+      809
+    ],
+    "timestamp": "2025-08-15 17:27:56.655459",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 47,
+    "class": "car",
+    "confidence": 0.44905000925064087,
+    "bbox": [
+      0,
+      562,
+      45,
+      659
+    ],
+    "timestamp": "2025-08-15 17:27:56.656460",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 47,
+    "class": "train",
+    "confidence": 0.41634470224380493,
+    "bbox": [
+      0,
+      1509,
+      873,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:56.656460",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 48,
+    "class": "car",
+    "confidence": 0.8970838785171509,
+    "bbox": [
+      110,
+      692,
+      614,
+      933
+    ],
+    "timestamp": "2025-08-15 17:27:56.708135",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 48,
+    "class": "car",
+    "confidence": 0.801138162612915,
+    "bbox": [
+      2,
+      656,
+      246,
+      807
+    ],
+    "timestamp": "2025-08-15 17:27:56.708135",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 49,
+    "class": "car",
+    "confidence": 0.9005007147789001,
+    "bbox": [
+      103,
+      689,
+      602,
+      936
+    ],
+    "timestamp": "2025-08-15 17:27:56.757809",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 49,
+    "class": "car",
+    "confidence": 0.796712338924408,
+    "bbox": [
+      1,
+      656,
+      237,
+      807
+    ],
+    "timestamp": "2025-08-15 17:27:56.758809",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 50,
+    "class": "car",
+    "confidence": 0.901280403137207,
+    "bbox": [
+      91,
+      692,
+      594,
+      941
+    ],
+    "timestamp": "2025-08-15 17:27:56.810483",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 50,
+    "class": "car",
+    "confidence": 0.7576889991760254,
+    "bbox": [
+      1,
+      658,
+      227,
+      807
+    ],
+    "timestamp": "2025-08-15 17:27:56.810483",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 51,
+    "class": "car",
+    "confidence": 0.8971980810165405,
+    "bbox": [
+      76,
+      695,
+      579,
+      939
+    ],
+    "timestamp": "2025-08-15 17:27:56.861158",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 51,
+    "class": "car",
+    "confidence": 0.7871356010437012,
+    "bbox": [
+      0,
+      658,
+      218,
+      806
+    ],
+    "timestamp": "2025-08-15 17:27:56.861158",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 52,
+    "class": "car",
+    "confidence": 0.9172775745391846,
+    "bbox": [
+      66,
+      696,
+      577,
+      940
+    ],
+    "timestamp": "2025-08-15 17:27:56.910832",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 52,
+    "class": "car",
+    "confidence": 0.6542271375656128,
+    "bbox": [
+      0,
+      660,
+      205,
+      808
+    ],
+    "timestamp": "2025-08-15 17:27:56.910832",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 52,
+    "class": "train",
+    "confidence": 0.3615529537200928,
+    "bbox": [
+      1,
+      1515,
+      856,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:56.911833",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 53,
+    "class": "car",
+    "confidence": 0.9111945033073425,
+    "bbox": [
+      53,
+      699,
+      562,
+      942
+    ],
+    "timestamp": "2025-08-15 17:27:56.960506",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 53,
+    "class": "car",
+    "confidence": 0.5937705039978027,
+    "bbox": [
+      1,
+      660,
+      192,
+      806
+    ],
+    "timestamp": "2025-08-15 17:27:56.960506",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 53,
+    "class": "train",
+    "confidence": 0.3334188461303711,
+    "bbox": [
+      0,
+      1518,
+      861,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:56.960506",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 54,
+    "class": "car",
+    "confidence": 0.8990452289581299,
+    "bbox": [
+      43,
+      701,
+      552,
+      947
+    ],
+    "timestamp": "2025-08-15 17:27:57.006180",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 54,
+    "class": "car",
+    "confidence": 0.6078673005104065,
+    "bbox": [
+      2,
+      661,
+      182,
+      805
+    ],
+    "timestamp": "2025-08-15 17:27:57.006180",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 55,
+    "class": "car",
+    "confidence": 0.902371883392334,
+    "bbox": [
+      32,
+      701,
+      540,
+      948
+    ],
+    "timestamp": "2025-08-15 17:27:57.051853",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 55,
+    "class": "car",
+    "confidence": 0.5068948268890381,
+    "bbox": [
+      2,
+      663,
+      173,
+      805
+    ],
+    "timestamp": "2025-08-15 17:27:57.051853",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 56,
+    "class": "car",
+    "confidence": 0.9113718271255493,
+    "bbox": [
+      22,
+      704,
+      526,
+      948
+    ],
+    "timestamp": "2025-08-15 17:27:57.097526",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 56,
+    "class": "car",
+    "confidence": 0.458842396736145,
+    "bbox": [
+      0,
+      665,
+      164,
+      805
+    ],
+    "timestamp": "2025-08-15 17:27:57.097526",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 57,
+    "class": "car",
+    "confidence": 0.9116366505622864,
+    "bbox": [
+      9,
+      705,
+      519,
+      950
+    ],
+    "timestamp": "2025-08-15 17:27:57.144199",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 57,
+    "class": "car",
+    "confidence": 0.38228151202201843,
+    "bbox": [
+      0,
+      667,
+      151,
+      806
+    ],
+    "timestamp": "2025-08-15 17:27:57.145200",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 58,
+    "class": "car",
+    "confidence": 0.9132325649261475,
+    "bbox": [
+      4,
+      706,
+      510,
+      955
+    ],
+    "timestamp": "2025-08-15 17:27:57.194874",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 59,
+    "class": "car",
+    "confidence": 0.9032070636749268,
+    "bbox": [
+      5,
+      706,
+      500,
+      954
+    ],
+    "timestamp": "2025-08-15 17:27:57.246548",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 59,
+    "class": "car",
+    "confidence": 0.3579829931259155,
+    "bbox": [
+      1,
+      670,
+      128,
+      780
+    ],
+    "timestamp": "2025-08-15 17:27:57.247548",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 60,
+    "class": "car",
+    "confidence": 0.8949998617172241,
+    "bbox": [
+      4,
+      704,
+      488,
+      957
+    ],
+    "timestamp": "2025-08-15 17:27:57.292222",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 60,
+    "class": "car",
+    "confidence": 0.3803963363170624,
+    "bbox": [
+      720,
+      397,
+      798,
+      427
+    ],
+    "timestamp": "2025-08-15 17:27:57.293222",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 60,
+    "class": "car",
+    "confidence": 0.33413010835647583,
+    "bbox": [
+      793,
+      387,
+      904,
+      427
+    ],
+    "timestamp": "2025-08-15 17:27:57.293222",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 61,
+    "class": "car",
+    "confidence": 0.8997247219085693,
+    "bbox": [
+      2,
+      707,
+      474,
+      958
+    ],
+    "timestamp": "2025-08-15 17:27:57.336895",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 61,
+    "class": "car",
+    "confidence": 0.3356795608997345,
+    "bbox": [
+      772,
+      383,
+      897,
+      428
+    ],
+    "timestamp": "2025-08-15 17:27:57.337895",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 62,
+    "class": "car",
+    "confidence": 0.8985840082168579,
+    "bbox": [
+      1,
+      710,
+      468,
+      959
+    ],
+    "timestamp": "2025-08-15 17:27:57.384568",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 62,
+    "class": "car",
+    "confidence": 0.4091302156448364,
+    "bbox": [
+      699,
+      398,
+      777,
+      427
+    ],
+    "timestamp": "2025-08-15 17:27:57.385568",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 62,
+    "class": "train",
+    "confidence": 0.31603726744651794,
+    "bbox": [
+      5,
+      1535,
+      783,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:57.385568",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 63,
+    "class": "car",
+    "confidence": 0.897313117980957,
+    "bbox": [
+      1,
+      712,
+      461,
+      962
+    ],
+    "timestamp": "2025-08-15 17:27:57.433242",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 64,
+    "class": "car",
+    "confidence": 0.8847798109054565,
+    "bbox": [
+      1,
+      714,
+      447,
+      963
+    ],
+    "timestamp": "2025-08-15 17:27:57.482917",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 65,
+    "class": "car",
+    "confidence": 0.870820164680481,
+    "bbox": [
+      2,
+      715,
+      431,
+      963
+    ],
+    "timestamp": "2025-08-15 17:27:57.530590",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 66,
+    "class": "car",
+    "confidence": 0.8870472311973572,
+    "bbox": [
+      1,
+      717,
+      426,
+      968
+    ],
+    "timestamp": "2025-08-15 17:27:57.578264",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 67,
+    "class": "car",
+    "confidence": 0.8675983548164368,
+    "bbox": [
+      1,
+      719,
+      415,
+      970
+    ],
+    "timestamp": "2025-08-15 17:27:57.626938",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 68,
+    "class": "car",
+    "confidence": 0.8755226731300354,
+    "bbox": [
+      1,
+      720,
+      405,
+      974
+    ],
+    "timestamp": "2025-08-15 17:27:57.672610",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 69,
+    "class": "car",
+    "confidence": 0.8813320398330688,
+    "bbox": [
+      3,
+      725,
+      393,
+      975
+    ],
+    "timestamp": "2025-08-15 17:27:57.718284",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 70,
+    "class": "car",
+    "confidence": 0.9104856848716736,
+    "bbox": [
+      4,
+      727,
+      379,
+      977
+    ],
+    "timestamp": "2025-08-15 17:27:57.767959",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 71,
+    "class": "car",
+    "confidence": 0.8851708769798279,
+    "bbox": [
+      3,
+      727,
+      372,
+      979
+    ],
+    "timestamp": "2025-08-15 17:27:57.813631",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 72,
+    "class": "car",
+    "confidence": 0.8863507509231567,
+    "bbox": [
+      3,
+      730,
+      360,
+      986
+    ],
+    "timestamp": "2025-08-15 17:27:57.857304",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 73,
+    "class": "car",
+    "confidence": 0.8952217102050781,
+    "bbox": [
+      3,
+      731,
+      354,
+      987
+    ],
+    "timestamp": "2025-08-15 17:27:57.905979",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 74,
+    "class": "car",
+    "confidence": 0.906267523765564,
+    "bbox": [
+      3,
+      730,
+      340,
+      989
+    ],
+    "timestamp": "2025-08-15 17:27:57.949651",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 75,
+    "class": "car",
+    "confidence": 0.892499566078186,
+    "bbox": [
+      2,
+      731,
+      331,
+      988
+    ],
+    "timestamp": "2025-08-15 17:27:57.994324",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 76,
+    "class": "car",
+    "confidence": 0.8881111145019531,
+    "bbox": [
+      1,
+      737,
+      323,
+      989
+    ],
+    "timestamp": "2025-08-15 17:27:58.039998",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 76,
+    "class": "train",
+    "confidence": 0.30950164794921875,
+    "bbox": [
+      23,
+      1568,
+      639,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:58.040998",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 77,
+    "class": "car",
+    "confidence": 0.8749507069587708,
+    "bbox": [
+      1,
+      741,
+      317,
+      989
+    ],
+    "timestamp": "2025-08-15 17:27:58.092672",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 77,
+    "class": "train",
+    "confidence": 0.5640761852264404,
+    "bbox": [
+      5,
+      1567,
+      656,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:58.092672",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 77,
+    "class": "car",
+    "confidence": 0.3087734878063202,
+    "bbox": [
+      537,
+      420,
+      603,
+      446
+    ],
+    "timestamp": "2025-08-15 17:27:58.092672",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 78,
+    "class": "car",
+    "confidence": 0.896440327167511,
+    "bbox": [
+      1,
+      742,
+      306,
+      986
+    ],
+    "timestamp": "2025-08-15 17:27:58.140346",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 79,
+    "class": "car",
+    "confidence": 0.8928347826004028,
+    "bbox": [
+      2,
+      745,
+      294,
+      984
+    ],
+    "timestamp": "2025-08-15 17:27:58.185019",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 79,
+    "class": "car",
+    "confidence": 0.38513433933258057,
+    "bbox": [
+      524,
+      422,
+      585,
+      449
+    ],
+    "timestamp": "2025-08-15 17:27:58.186019",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 79,
+    "class": "train",
+    "confidence": 0.32378461956977844,
+    "bbox": [
+      7,
+      1577,
+      642,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:58.186019",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 80,
+    "class": "car",
+    "confidence": 0.8895111680030823,
+    "bbox": [
+      3,
+      749,
+      286,
+      951
+    ],
+    "timestamp": "2025-08-15 17:27:58.232692",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 80,
+    "class": "train",
+    "confidence": 0.5690633058547974,
+    "bbox": [
+      3,
+      1576,
+      633,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:58.232692",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 81,
+    "class": "car",
+    "confidence": 0.8961089253425598,
+    "bbox": [
+      3,
+      752,
+      275,
+      939
+    ],
+    "timestamp": "2025-08-15 17:27:58.281366",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 81,
+    "class": "train",
+    "confidence": 0.39843109250068665,
+    "bbox": [
+      3,
+      1581,
+      629,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:58.281366",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 82,
+    "class": "car",
+    "confidence": 0.8660181164741516,
+    "bbox": [
+      3,
+      754,
+      266,
+      939
+    ],
+    "timestamp": "2025-08-15 17:27:58.326040",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 82,
+    "class": "train",
+    "confidence": 0.5111342072486877,
+    "bbox": [
+      2,
+      1582,
+      610,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:58.327040",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 83,
+    "class": "car",
+    "confidence": 0.8641499876976013,
+    "bbox": [
+      3,
+      757,
+      252,
+      935
+    ],
+    "timestamp": "2025-08-15 17:27:58.380714",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 83,
+    "class": "train",
+    "confidence": 0.6080957651138306,
+    "bbox": [
+      3,
+      1584,
+      603,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:58.381715",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 83,
+    "class": "car",
+    "confidence": 0.3876959979534149,
+    "bbox": [
+      475,
+      425,
+      541,
+      453
+    ],
+    "timestamp": "2025-08-15 17:27:58.381715",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 84,
+    "class": "car",
+    "confidence": 0.867576539516449,
+    "bbox": [
+      4,
+      759,
+      242,
+      936
+    ],
+    "timestamp": "2025-08-15 17:27:58.435390",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 84,
+    "class": "train",
+    "confidence": 0.7011322975158691,
+    "bbox": [
+      2,
+      1587,
+      599,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:58.435390",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 85,
+    "class": "car",
+    "confidence": 0.860834002494812,
+    "bbox": [
+      3,
+      760,
+      239,
+      941
+    ],
+    "timestamp": "2025-08-15 17:27:58.484064",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 85,
+    "class": "train",
+    "confidence": 0.5172082185745239,
+    "bbox": [
+      3,
+      1590,
+      593,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:58.485064",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 85,
+    "class": "car",
+    "confidence": 0.3091699481010437,
+    "bbox": [
+      447,
+      428,
+      519,
+      456
+    ],
+    "timestamp": "2025-08-15 17:27:58.485064",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 86,
+    "class": "car",
+    "confidence": 0.8386543393135071,
+    "bbox": [
+      3,
+      763,
+      226,
+      937
+    ],
+    "timestamp": "2025-08-15 17:27:58.533738",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 86,
+    "class": "train",
+    "confidence": 0.6138049960136414,
+    "bbox": [
+      3,
+      1590,
+      582,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:58.533738",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 87,
+    "class": "car",
+    "confidence": 0.8622283935546875,
+    "bbox": [
+      3,
+      766,
+      217,
+      939
+    ],
+    "timestamp": "2025-08-15 17:27:58.581412",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 87,
+    "class": "train",
+    "confidence": 0.46220070123672485,
+    "bbox": [
+      3,
+      1593,
+      552,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:58.581412",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 87,
+    "class": "car",
+    "confidence": 0.3236142694950104,
+    "bbox": [
+      421,
+      427,
+      500,
+      457
+    ],
+    "timestamp": "2025-08-15 17:27:58.581412",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 88,
+    "class": "car",
+    "confidence": 0.8265407085418701,
+    "bbox": [
+      2,
+      769,
+      207,
+      928
+    ],
+    "timestamp": "2025-08-15 17:27:58.629086",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 88,
+    "class": "train",
+    "confidence": 0.6100238561630249,
+    "bbox": [
+      0,
+      1598,
+      546,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:58.630086",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 89,
+    "class": "car",
+    "confidence": 0.8273369073867798,
+    "bbox": [
+      1,
+      772,
+      190,
+      929
+    ],
+    "timestamp": "2025-08-15 17:27:58.675758",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 89,
+    "class": "train",
+    "confidence": 0.5214630961418152,
+    "bbox": [
+      2,
+      1599,
+      552,
+      1919
+    ],
+    "timestamp": "2025-08-15 17:27:58.675758",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 90,
+    "class": "car",
+    "confidence": 0.8035795092582703,
+    "bbox": [
+      0,
+      775,
+      188,
+      931
+    ],
+    "timestamp": "2025-08-15 17:27:58.723432",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 90,
+    "class": "train",
+    "confidence": 0.47590911388397217,
+    "bbox": [
+      2,
+      1599,
+      529,
+      1919
+    ],
+    "timestamp": "2025-08-15 17:27:58.724433",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 91,
+    "class": "car",
+    "confidence": 0.8132363557815552,
+    "bbox": [
+      0,
+      777,
+      177,
+      931
+    ],
+    "timestamp": "2025-08-15 17:27:58.773107",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 91,
+    "class": "train",
+    "confidence": 0.4901738464832306,
+    "bbox": [
+      2,
+      1605,
+      532,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:58.774107",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 92,
+    "class": "car",
+    "confidence": 0.7604153156280518,
+    "bbox": [
+      0,
+      781,
+      166,
+      934
+    ],
+    "timestamp": "2025-08-15 17:27:58.818780",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 93,
+    "class": "car",
+    "confidence": 0.7533096671104431,
+    "bbox": [
+      2,
+      780,
+      161,
+      944
+    ],
+    "timestamp": "2025-08-15 17:27:58.867454",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 93,
+    "class": "train",
+    "confidence": 0.576600193977356,
+    "bbox": [
+      0,
+      1612,
+      501,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:58.867454",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 94,
+    "class": "car",
+    "confidence": 0.696725606918335,
+    "bbox": [
+      0,
+      783,
+      149,
+      942
+    ],
+    "timestamp": "2025-08-15 17:27:58.917128",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 94,
+    "class": "train",
+    "confidence": 0.5094917416572571,
+    "bbox": [
+      1,
+      1614,
+      499,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:58.918129",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 95,
+    "class": "car",
+    "confidence": 0.7490379214286804,
+    "bbox": [
+      0,
+      784,
+      139,
+      948
+    ],
+    "timestamp": "2025-08-15 17:27:58.962801",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 95,
+    "class": "train",
+    "confidence": 0.4649091064929962,
+    "bbox": [
+      1,
+      1616,
+      466,
+      1918
+    ],
+    "timestamp": "2025-08-15 17:27:58.962801",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 96,
+    "class": "car",
+    "confidence": 0.7031847238540649,
+    "bbox": [
+      0,
+      784,
+      127,
+      942
+    ],
+    "timestamp": "2025-08-15 17:27:59.006474",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 97,
+    "class": "car",
+    "confidence": 0.7246682047843933,
+    "bbox": [
+      2,
+      788,
+      119,
+      946
+    ],
+    "timestamp": "2025-08-15 17:27:59.054148",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 98,
+    "class": "car",
+    "confidence": 0.664432942867279,
+    "bbox": [
+      1,
+      790,
+      108,
+      951
+    ],
+    "timestamp": "2025-08-15 17:27:59.100821",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 99,
+    "class": "car",
+    "confidence": 0.6529423594474792,
+    "bbox": [
+      0,
+      795,
+      93,
+      947
+    ],
+    "timestamp": "2025-08-15 17:27:59.148495",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 100,
+    "class": "car",
+    "confidence": 0.4457903504371643,
+    "bbox": [
+      0,
+      799,
+      82,
+      944
+    ],
+    "timestamp": "2025-08-15 17:27:59.196169",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 101,
+    "class": "car",
+    "confidence": 0.40704795718193054,
+    "bbox": [
+      0,
+      801,
+      72,
+      943
+    ],
+    "timestamp": "2025-08-15 17:27:59.247843",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 103,
+    "class": "person",
+    "confidence": 0.31734898686408997,
+    "bbox": [
+      0,
+      804,
+      63,
+      942
+    ],
+    "timestamp": "2025-08-15 17:27:59.337190",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 104,
+    "class": "car",
+    "confidence": 0.30493900179862976,
+    "bbox": [
+      258,
+      445,
+      330,
+      474
+    ],
+    "timestamp": "2025-08-15 17:27:59.383862",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 107,
+    "class": "car",
+    "confidence": 0.31699106097221375,
+    "bbox": [
+      219,
+      446,
+      302,
+      476
+    ],
+    "timestamp": "2025-08-15 17:27:59.510880",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 128,
+    "class": "car",
+    "confidence": 0.33561766147613525,
+    "bbox": [
+      121,
+      453,
+      219,
+      498
+    ],
+    "timestamp": "2025-08-15 17:28:00.435010",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 128,
+    "class": "car",
+    "confidence": 0.3199580907821655,
+    "bbox": [
+      154,
+      454,
+      218,
+      497
+    ],
+    "timestamp": "2025-08-15 17:28:00.436010",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 133,
+    "class": "car",
+    "confidence": 0.303335040807724,
+    "bbox": [
+      3,
+      470,
+      53,
+      499
+    ],
+    "timestamp": "2025-08-15 17:28:00.674379",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 163,
+    "class": "car",
+    "confidence": 0.32075726985931396,
+    "bbox": [
+      732,
+      456,
+      829,
+      516
+    ],
+    "timestamp": "2025-08-15 17:28:01.955556",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 172,
+    "class": "car",
+    "confidence": 0.33521440625190735,
+    "bbox": [
+      549,
+      471,
+      662,
+      541
+    ],
+    "timestamp": "2025-08-15 17:28:02.348611",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 174,
+    "class": "car",
+    "confidence": 0.30179211497306824,
+    "bbox": [
+      630,
+      456,
+      718,
+      516
+    ],
+    "timestamp": "2025-08-15 17:28:02.434956",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 187,
+    "class": "car",
+    "confidence": 0.3170183300971985,
+    "bbox": [
+      510,
+      463,
+      599,
+      518
+    ],
+    "timestamp": "2025-08-15 17:28:02.998702",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 201,
+    "class": "car",
+    "confidence": 0.32689520716667175,
+    "bbox": [
+      391,
+      468,
+      475,
+      526
+    ],
+    "timestamp": "2025-08-15 17:28:03.607120",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 204,
+    "class": "car",
+    "confidence": 0.33089905977249146,
+    "bbox": [
+      365,
+      468,
+      450,
+      525
+    ],
+    "timestamp": "2025-08-15 17:28:03.741138",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 205,
+    "class": "car",
+    "confidence": 0.32070451974868774,
+    "bbox": [
+      357,
+      467,
+      448,
+      525
+    ],
+    "timestamp": "2025-08-15 17:28:03.789813",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 207,
+    "class": "car",
+    "confidence": 0.3001005947589874,
+    "bbox": [
+      343,
+      469,
+      429,
+      526
+    ],
+    "timestamp": "2025-08-15 17:28:03.876158",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 210,
+    "class": "person",
+    "confidence": 0.4287005662918091,
+    "bbox": [
+      1037,
+      962,
+      1080,
+      1169
+    ],
+    "timestamp": "2025-08-15 17:28:04.003175",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 211,
+    "class": "person",
+    "confidence": 0.44694599509239197,
+    "bbox": [
+      1030,
+      961,
+      1080,
+      1170
+    ],
+    "timestamp": "2025-08-15 17:28:04.048849",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 213,
+    "class": "car",
+    "confidence": 0.6009835600852966,
+    "bbox": [
+      1011,
+      947,
+      1080,
+      1193
+    ],
+    "timestamp": "2025-08-15 17:28:04.132193",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 214,
+    "class": "car",
+    "confidence": 0.6505942940711975,
+    "bbox": [
+      1004,
+      945,
+      1080,
+      1193
+    ],
+    "timestamp": "2025-08-15 17:28:04.177867",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 214,
+    "class": "car",
+    "confidence": 0.37926363945007324,
+    "bbox": [
+      288,
+      469,
+      376,
+      527
+    ],
+    "timestamp": "2025-08-15 17:28:04.177867",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 214,
+    "class": "car",
+    "confidence": 0.30977338552474976,
+    "bbox": [
+      187,
+      493,
+      296,
+      546
+    ],
+    "timestamp": "2025-08-15 17:28:04.178867",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 215,
+    "class": "car",
+    "confidence": 0.6105135679244995,
+    "bbox": [
+      997,
+      943,
+      1079,
+      1195
+    ],
+    "timestamp": "2025-08-15 17:28:04.228540",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 216,
+    "class": "car",
+    "confidence": 0.6787097454071045,
+    "bbox": [
+      985,
+      939,
+      1080,
+      1200
+    ],
+    "timestamp": "2025-08-15 17:28:04.278215",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 217,
+    "class": "car",
+    "confidence": 0.769096314907074,
+    "bbox": [
+      980,
+      936,
+      1080,
+      1213
+    ],
+    "timestamp": "2025-08-15 17:28:04.330890",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 218,
+    "class": "car",
+    "confidence": 0.7340565919876099,
+    "bbox": [
+      974,
+      937,
+      1080,
+      1226
+    ],
+    "timestamp": "2025-08-15 17:28:04.380563",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 219,
+    "class": "car",
+    "confidence": 0.7564178109169006,
+    "bbox": [
+      965,
+      937,
+      1080,
+      1223
+    ],
+    "timestamp": "2025-08-15 17:28:04.430238",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 220,
+    "class": "car",
+    "confidence": 0.8173943161964417,
+    "bbox": [
+      961,
+      935,
+      1080,
+      1218
+    ],
+    "timestamp": "2025-08-15 17:28:04.480913",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 220,
+    "class": "car",
+    "confidence": 0.36744827032089233,
+    "bbox": [
+      243,
+      470,
+      331,
+      527
+    ],
+    "timestamp": "2025-08-15 17:28:04.480913",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 221,
+    "class": "car",
+    "confidence": 0.7228981256484985,
+    "bbox": [
+      955,
+      932,
+      1079,
+      1225
+    ],
+    "timestamp": "2025-08-15 17:28:04.527585",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 221,
+    "class": "car",
+    "confidence": 0.39884766936302185,
+    "bbox": [
+      235,
+      469,
+      327,
+      531
+    ],
+    "timestamp": "2025-08-15 17:28:04.527585",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 222,
+    "class": "car",
+    "confidence": 0.7307381629943848,
+    "bbox": [
+      946,
+      931,
+      1080,
+      1244
+    ],
+    "timestamp": "2025-08-15 17:28:04.572259",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 223,
+    "class": "car",
+    "confidence": 0.7467687726020813,
+    "bbox": [
+      938,
+      929,
+      1080,
+      1246
+    ],
+    "timestamp": "2025-08-15 17:28:04.615932",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 224,
+    "class": "car",
+    "confidence": 0.7728767395019531,
+    "bbox": [
+      931,
+      926,
+      1077,
+      1243
+    ],
+    "timestamp": "2025-08-15 17:28:04.659605",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 224,
+    "class": "car",
+    "confidence": 0.3640093207359314,
+    "bbox": [
+      558,
+      561,
+      661,
+      633
+    ],
+    "timestamp": "2025-08-15 17:28:04.659605",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 225,
+    "class": "car",
+    "confidence": 0.7636650800704956,
+    "bbox": [
+      925,
+      928,
+      1077,
+      1251
+    ],
+    "timestamp": "2025-08-15 17:28:04.704277",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 226,
+    "class": "car",
+    "confidence": 0.6356443762779236,
+    "bbox": [
+      917,
+      926,
+      1079,
+      1253
+    ],
+    "timestamp": "2025-08-15 17:28:04.748951",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 227,
+    "class": "car",
+    "confidence": 0.73655104637146,
+    "bbox": [
+      911,
+      923,
+      1079,
+      1252
+    ],
+    "timestamp": "2025-08-15 17:28:04.798624",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 228,
+    "class": "car",
+    "confidence": 0.6790866255760193,
+    "bbox": [
+      904,
+      922,
+      1080,
+      1260
+    ],
+    "timestamp": "2025-08-15 17:28:04.849299",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 229,
+    "class": "car",
+    "confidence": 0.6966353058815002,
+    "bbox": [
+      899,
+      921,
+      1080,
+      1269
+    ],
+    "timestamp": "2025-08-15 17:28:04.899975",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 229,
+    "class": "car",
+    "confidence": 0.3853362798690796,
+    "bbox": [
+      181,
+      466,
+      272,
+      530
+    ],
+    "timestamp": "2025-08-15 17:28:04.900974",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 230,
+    "class": "car",
+    "confidence": 0.7411194443702698,
+    "bbox": [
+      891,
+      919,
+      1080,
+      1292
+    ],
+    "timestamp": "2025-08-15 17:28:04.949647",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 231,
+    "class": "car",
+    "confidence": 0.7830001711845398,
+    "bbox": [
+      885,
+      918,
+      1080,
+      1296
+    ],
+    "timestamp": "2025-08-15 17:28:04.997324",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 231,
+    "class": "car",
+    "confidence": 0.3137180209159851,
+    "bbox": [
+      166,
+      467,
+      256,
+      527
+    ],
+    "timestamp": "2025-08-15 17:28:04.998321",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 232,
+    "class": "car",
+    "confidence": 0.7707624435424805,
+    "bbox": [
+      879,
+      919,
+      1080,
+      1296
+    ],
+    "timestamp": "2025-08-15 17:28:05.045995",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 233,
+    "class": "car",
+    "confidence": 0.7923735976219177,
+    "bbox": [
+      867,
+      918,
+      1080,
+      1296
+    ],
+    "timestamp": "2025-08-15 17:28:05.095669",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 234,
+    "class": "car",
+    "confidence": 0.8676862120628357,
+    "bbox": [
+      862,
+      917,
+      1080,
+      1293
+    ],
+    "timestamp": "2025-08-15 17:28:05.140342",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 235,
+    "class": "car",
+    "confidence": 0.797374427318573,
+    "bbox": [
+      856,
+      917,
+      1080,
+      1301
+    ],
+    "timestamp": "2025-08-15 17:28:05.184016",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 235,
+    "class": "car",
+    "confidence": 0.35331904888153076,
+    "bbox": [
+      131,
+      465,
+      224,
+      524
+    ],
+    "timestamp": "2025-08-15 17:28:05.184016",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 236,
+    "class": "car",
+    "confidence": 0.8112677931785583,
+    "bbox": [
+      846,
+      915,
+      1080,
+      1314
+    ],
+    "timestamp": "2025-08-15 17:28:05.227688",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 237,
+    "class": "car",
+    "confidence": 0.8723786473274231,
+    "bbox": [
+      837,
+      912,
+      1079,
+      1304
+    ],
+    "timestamp": "2025-08-15 17:28:05.271361",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 238,
+    "class": "car",
+    "confidence": 0.8769352436065674,
+    "bbox": [
+      835,
+      910,
+      1079,
+      1305
+    ],
+    "timestamp": "2025-08-15 17:28:05.320035",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 238,
+    "class": "car",
+    "confidence": 0.3110758066177368,
+    "bbox": [
+      104,
+      462,
+      198,
+      516
+    ],
+    "timestamp": "2025-08-15 17:28:05.320035",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 239,
+    "class": "car",
+    "confidence": 0.7706804275512695,
+    "bbox": [
+      822,
+      907,
+      1080,
+      1323
+    ],
+    "timestamp": "2025-08-15 17:28:05.367708",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 240,
+    "class": "car",
+    "confidence": 0.7818936109542847,
+    "bbox": [
+      809,
+      905,
+      1079,
+      1325
+    ],
+    "timestamp": "2025-08-15 17:28:05.417382",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 240,
+    "class": "car",
+    "confidence": 0.37318354845046997,
+    "bbox": [
+      81,
+      458,
+      180,
+      518
+    ],
+    "timestamp": "2025-08-15 17:28:05.417382",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 241,
+    "class": "car",
+    "confidence": 0.7380760908126831,
+    "bbox": [
+      800,
+      903,
+      1080,
+      1367
+    ],
+    "timestamp": "2025-08-15 17:28:05.497064",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 241,
+    "class": "car",
+    "confidence": 0.3251965045928955,
+    "bbox": [
+      69,
+      457,
+      161,
+      516
+    ],
+    "timestamp": "2025-08-15 17:28:05.498064",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 242,
+    "class": "car",
+    "confidence": 0.8479822874069214,
+    "bbox": [
+      791,
+      901,
+      1080,
+      1380
+    ],
+    "timestamp": "2025-08-15 17:28:05.561741",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 242,
+    "class": "car",
+    "confidence": 0.4028020203113556,
+    "bbox": [
+      59,
+      456,
+      155,
+      515
+    ],
+    "timestamp": "2025-08-15 17:28:05.562741",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 243,
+    "class": "car",
+    "confidence": 0.8647197484970093,
+    "bbox": [
+      781,
+      901,
+      1078,
+      1388
+    ],
+    "timestamp": "2025-08-15 17:28:05.607414",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 243,
+    "class": "car",
+    "confidence": 0.3227527439594269,
+    "bbox": [
+      49,
+      455,
+      141,
+      515
+    ],
+    "timestamp": "2025-08-15 17:28:05.607414",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 244,
+    "class": "car",
+    "confidence": 0.8556938171386719,
+    "bbox": [
+      771,
+      899,
+      1079,
+      1389
+    ],
+    "timestamp": "2025-08-15 17:28:05.655088",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 245,
+    "class": "car",
+    "confidence": 0.852655291557312,
+    "bbox": [
+      762,
+      901,
+      1077,
+      1395
+    ],
+    "timestamp": "2025-08-15 17:28:05.699761",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 246,
+    "class": "car",
+    "confidence": 0.8232911825180054,
+    "bbox": [
+      752,
+      898,
+      1076,
+      1391
+    ],
+    "timestamp": "2025-08-15 17:28:05.743434",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 247,
+    "class": "car",
+    "confidence": 0.8877841234207153,
+    "bbox": [
+      739,
+      897,
+      1075,
+      1391
+    ],
+    "timestamp": "2025-08-15 17:28:05.791108",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 248,
+    "class": "car",
+    "confidence": 0.8728820085525513,
+    "bbox": [
+      730,
+      895,
+      1076,
+      1403
+    ],
+    "timestamp": "2025-08-15 17:28:05.835780",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 248,
+    "class": "car",
+    "confidence": 0.37361419200897217,
+    "bbox": [
+      1,
+      450,
+      83,
+      507
+    ],
+    "timestamp": "2025-08-15 17:28:05.836780",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 249,
+    "class": "car",
+    "confidence": 0.8849601149559021,
+    "bbox": [
+      719,
+      894,
+      1077,
+      1392
+    ],
+    "timestamp": "2025-08-15 17:28:05.884454",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 250,
+    "class": "car",
+    "confidence": 0.7901420593261719,
+    "bbox": [
+      707,
+      891,
+      1077,
+      1393
+    ],
+    "timestamp": "2025-08-15 17:28:05.933128",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 251,
+    "class": "car",
+    "confidence": 0.8661431074142456,
+    "bbox": [
+      695,
+      892,
+      1077,
+      1398
+    ],
+    "timestamp": "2025-08-15 17:28:05.980801",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 252,
+    "class": "car",
+    "confidence": 0.891514241695404,
+    "bbox": [
+      686,
+      890,
+      1077,
+      1398
+    ],
+    "timestamp": "2025-08-15 17:28:06.037477",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 253,
+    "class": "car",
+    "confidence": 0.8625732064247131,
+    "bbox": [
+      674,
+      887,
+      1078,
+      1403
+    ],
+    "timestamp": "2025-08-15 17:28:06.087152",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 254,
+    "class": "car",
+    "confidence": 0.8804194927215576,
+    "bbox": [
+      663,
+      887,
+      1078,
+      1407
+    ],
+    "timestamp": "2025-08-15 17:28:06.132825",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 255,
+    "class": "car",
+    "confidence": 0.8753901124000549,
+    "bbox": [
+      653,
+      888,
+      1077,
+      1398
+    ],
+    "timestamp": "2025-08-15 17:28:06.177498",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 256,
+    "class": "car",
+    "confidence": 0.9218509793281555,
+    "bbox": [
+      645,
+      888,
+      1077,
+      1404
+    ],
+    "timestamp": "2025-08-15 17:28:06.222171",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 257,
+    "class": "car",
+    "confidence": 0.9245525598526001,
+    "bbox": [
+      634,
+      886,
+      1078,
+      1391
+    ],
+    "timestamp": "2025-08-15 17:28:06.265843",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 258,
+    "class": "car",
+    "confidence": 0.9067529439926147,
+    "bbox": [
+      624,
+      885,
+      1078,
+      1393
+    ],
+    "timestamp": "2025-08-15 17:28:06.311517",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 259,
+    "class": "car",
+    "confidence": 0.8947103023529053,
+    "bbox": [
+      611,
+      885,
+      1079,
+      1392
+    ],
+    "timestamp": "2025-08-15 17:28:06.355190",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 260,
+    "class": "car",
+    "confidence": 0.9032534956932068,
+    "bbox": [
+      603,
+      886,
+      1079,
+      1397
+    ],
+    "timestamp": "2025-08-15 17:28:06.400863",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 261,
+    "class": "car",
+    "confidence": 0.9145672917366028,
+    "bbox": [
+      593,
+      884,
+      1080,
+      1408
+    ],
+    "timestamp": "2025-08-15 17:28:06.445536",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 262,
+    "class": "car",
+    "confidence": 0.9149302244186401,
+    "bbox": [
+      583,
+      887,
+      1078,
+      1394
+    ],
+    "timestamp": "2025-08-15 17:28:06.489209",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 263,
+    "class": "car",
+    "confidence": 0.9391043782234192,
+    "bbox": [
+      572,
+      888,
+      1078,
+      1407
+    ],
+    "timestamp": "2025-08-15 17:28:06.535882",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 263,
+    "class": "car",
+    "confidence": 0.4872428774833679,
+    "bbox": [
+      1035,
+      901,
+      1080,
+      1034
+    ],
+    "timestamp": "2025-08-15 17:28:06.536882",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 264,
+    "class": "car",
+    "confidence": 0.9335338473320007,
+    "bbox": [
+      561,
+      886,
+      1077,
+      1390
+    ],
+    "timestamp": "2025-08-15 17:28:06.581556",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 264,
+    "class": "car",
+    "confidence": 0.5040969252586365,
+    "bbox": [
+      1021,
+      898,
+      1080,
+      1043
+    ],
+    "timestamp": "2025-08-15 17:28:06.582556",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 265,
+    "class": "car",
+    "confidence": 0.9369399547576904,
+    "bbox": [
+      551,
+      887,
+      1077,
+      1386
+    ],
+    "timestamp": "2025-08-15 17:28:06.630230",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 265,
+    "class": "car",
+    "confidence": 0.5461694598197937,
+    "bbox": [
+      1009,
+      892,
+      1080,
+      1040
+    ],
+    "timestamp": "2025-08-15 17:28:06.631230",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 266,
+    "class": "car",
+    "confidence": 0.9390497803688049,
+    "bbox": [
+      543,
+      885,
+      1077,
+      1394
+    ],
+    "timestamp": "2025-08-15 17:28:06.679903",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 266,
+    "class": "car",
+    "confidence": 0.47980403900146484,
+    "bbox": [
+      997,
+      889,
+      1080,
+      1058
+    ],
+    "timestamp": "2025-08-15 17:28:06.679903",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 267,
+    "class": "car",
+    "confidence": 0.9251800775527954,
+    "bbox": [
+      536,
+      888,
+      1079,
+      1390
+    ],
+    "timestamp": "2025-08-15 17:28:06.731578",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 267,
+    "class": "car",
+    "confidence": 0.6314509510993958,
+    "bbox": [
+      988,
+      885,
+      1080,
+      1062
+    ],
+    "timestamp": "2025-08-15 17:28:06.731578",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 268,
+    "class": "car",
+    "confidence": 0.9026222825050354,
+    "bbox": [
+      521,
+      884,
+      1078,
+      1380
+    ],
+    "timestamp": "2025-08-15 17:28:06.785253",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 268,
+    "class": "car",
+    "confidence": 0.6958112120628357,
+    "bbox": [
+      976,
+      879,
+      1080,
+      1056
+    ],
+    "timestamp": "2025-08-15 17:28:06.786254",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 269,
+    "class": "car",
+    "confidence": 0.9093828797340393,
+    "bbox": [
+      514,
+      885,
+      1080,
+      1382
+    ],
+    "timestamp": "2025-08-15 17:28:06.834927",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 269,
+    "class": "car",
+    "confidence": 0.7820660471916199,
+    "bbox": [
+      966,
+      875,
+      1080,
+      1058
+    ],
+    "timestamp": "2025-08-15 17:28:06.835927",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 270,
+    "class": "car",
+    "confidence": 0.9244260191917419,
+    "bbox": [
+      505,
+      885,
+      1080,
+      1381
+    ],
+    "timestamp": "2025-08-15 17:28:06.883601",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 270,
+    "class": "car",
+    "confidence": 0.8576598167419434,
+    "bbox": [
+      956,
+      876,
+      1080,
+      1056
+    ],
+    "timestamp": "2025-08-15 17:28:06.883601",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 271,
+    "class": "car",
+    "confidence": 0.9196380376815796,
+    "bbox": [
+      492,
+      886,
+      1080,
+      1385
+    ],
+    "timestamp": "2025-08-15 17:28:06.930275",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 271,
+    "class": "car",
+    "confidence": 0.8333158493041992,
+    "bbox": [
+      946,
+      876,
+      1080,
+      1073
+    ],
+    "timestamp": "2025-08-15 17:28:06.931275",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 272,
+    "class": "car",
+    "confidence": 0.9325433373451233,
+    "bbox": [
+      482,
+      885,
+      1080,
+      1387
+    ],
+    "timestamp": "2025-08-15 17:28:06.977948",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 272,
+    "class": "car",
+    "confidence": 0.7971617579460144,
+    "bbox": [
+      933,
+      875,
+      1080,
+      1082
+    ],
+    "timestamp": "2025-08-15 17:28:06.978948",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 273,
+    "class": "car",
+    "confidence": 0.9414353370666504,
+    "bbox": [
+      472,
+      888,
+      1080,
+      1386
+    ],
+    "timestamp": "2025-08-15 17:28:07.021621",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 273,
+    "class": "car",
+    "confidence": 0.7765467762947083,
+    "bbox": [
+      922,
+      874,
+      1079,
+      1083
+    ],
+    "timestamp": "2025-08-15 17:28:07.021621",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 274,
+    "class": "car",
+    "confidence": 0.9316624999046326,
+    "bbox": [
+      465,
+      889,
+      1080,
+      1382
+    ],
+    "timestamp": "2025-08-15 17:28:07.073296",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 274,
+    "class": "car",
+    "confidence": 0.7767375707626343,
+    "bbox": [
+      911,
+      872,
+      1079,
+      1090
+    ],
+    "timestamp": "2025-08-15 17:28:07.073296",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 275,
+    "class": "car",
+    "confidence": 0.9308933019638062,
+    "bbox": [
+      457,
+      889,
+      1080,
+      1384
+    ],
+    "timestamp": "2025-08-15 17:28:07.116968",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 275,
+    "class": "car",
+    "confidence": 0.8034582734107971,
+    "bbox": [
+      901,
+      873,
+      1080,
+      1082
+    ],
+    "timestamp": "2025-08-15 17:28:07.116968",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 276,
+    "class": "car",
+    "confidence": 0.9230179786682129,
+    "bbox": [
+      450,
+      889,
+      1080,
+      1388
+    ],
+    "timestamp": "2025-08-15 17:28:07.159641",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 276,
+    "class": "car",
+    "confidence": 0.7637168765068054,
+    "bbox": [
+      894,
+      873,
+      1080,
+      1085
+    ],
+    "timestamp": "2025-08-15 17:28:07.160641",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 277,
+    "class": "car",
+    "confidence": 0.9261158108711243,
+    "bbox": [
+      438,
+      889,
+      1080,
+      1382
+    ],
+    "timestamp": "2025-08-15 17:28:07.203314",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 277,
+    "class": "car",
+    "confidence": 0.7940300107002258,
+    "bbox": [
+      883,
+      871,
+      1080,
+      1091
+    ],
+    "timestamp": "2025-08-15 17:28:07.203314",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 278,
+    "class": "car",
+    "confidence": 0.9161629676818848,
+    "bbox": [
+      424,
+      889,
+      1079,
+      1378
+    ],
+    "timestamp": "2025-08-15 17:28:07.247986",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 278,
+    "class": "car",
+    "confidence": 0.7986748218536377,
+    "bbox": [
+      874,
+      870,
+      1080,
+      1092
+    ],
+    "timestamp": "2025-08-15 17:28:07.248987",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 279,
+    "class": "car",
+    "confidence": 0.9080610275268555,
+    "bbox": [
+      415,
+      889,
+      1078,
+      1387
+    ],
+    "timestamp": "2025-08-15 17:28:07.296661",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 279,
+    "class": "car",
+    "confidence": 0.8043200969696045,
+    "bbox": [
+      863,
+      870,
+      1080,
+      1101
+    ],
+    "timestamp": "2025-08-15 17:28:07.296661",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 280,
+    "class": "car",
+    "confidence": 0.9152297973632812,
+    "bbox": [
+      409,
+      889,
+      1076,
+      1379
+    ],
+    "timestamp": "2025-08-15 17:28:07.345335",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 280,
+    "class": "car",
+    "confidence": 0.8069255948066711,
+    "bbox": [
+      852,
+      870,
+      1080,
+      1122
+    ],
+    "timestamp": "2025-08-15 17:28:07.346335",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 281,
+    "class": "car",
+    "confidence": 0.909217894077301,
+    "bbox": [
+      400,
+      888,
+      1071,
+      1385
+    ],
+    "timestamp": "2025-08-15 17:28:07.391008",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 281,
+    "class": "car",
+    "confidence": 0.7477366924285889,
+    "bbox": [
+      845,
+      871,
+      1080,
+      1124
+    ],
+    "timestamp": "2025-08-15 17:28:07.392008",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 282,
+    "class": "car",
+    "confidence": 0.898025393486023,
+    "bbox": [
+      390,
+      886,
+      1065,
+      1385
+    ],
+    "timestamp": "2025-08-15 17:28:07.442682",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 282,
+    "class": "car",
+    "confidence": 0.8235982060432434,
+    "bbox": [
+      836,
+      870,
+      1080,
+      1123
+    ],
+    "timestamp": "2025-08-15 17:28:07.443683",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 283,
+    "class": "car",
+    "confidence": 0.9182999730110168,
+    "bbox": [
+      382,
+      887,
+      1059,
+      1386
+    ],
+    "timestamp": "2025-08-15 17:28:07.490357",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 283,
+    "class": "car",
+    "confidence": 0.8481616377830505,
+    "bbox": [
+      826,
+      868,
+      1080,
+      1120
+    ],
+    "timestamp": "2025-08-15 17:28:07.491357",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 284,
+    "class": "car",
+    "confidence": 0.9034960865974426,
+    "bbox": [
+      374,
+      890,
+      1054,
+      1387
+    ],
+    "timestamp": "2025-08-15 17:28:07.537030",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 284,
+    "class": "car",
+    "confidence": 0.856810986995697,
+    "bbox": [
+      817,
+      867,
+      1080,
+      1127
+    ],
+    "timestamp": "2025-08-15 17:28:07.537030",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 285,
+    "class": "car",
+    "confidence": 0.9136363863945007,
+    "bbox": [
+      368,
+      889,
+      1028,
+      1384
+    ],
+    "timestamp": "2025-08-15 17:28:07.587704",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 285,
+    "class": "car",
+    "confidence": 0.8645502328872681,
+    "bbox": [
+      808,
+      868,
+      1080,
+      1121
+    ],
+    "timestamp": "2025-08-15 17:28:07.587704",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 286,
+    "class": "car",
+    "confidence": 0.9010603427886963,
+    "bbox": [
+      358,
+      888,
+      1038,
+      1381
+    ],
+    "timestamp": "2025-08-15 17:28:07.636378",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 286,
+    "class": "car",
+    "confidence": 0.8538813591003418,
+    "bbox": [
+      803,
+      864,
+      1080,
+      1131
+    ],
+    "timestamp": "2025-08-15 17:28:07.637378",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 287,
+    "class": "car",
+    "confidence": 0.9097633957862854,
+    "bbox": [
+      352,
+      888,
+      1035,
+      1380
+    ],
+    "timestamp": "2025-08-15 17:28:07.685051",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 287,
+    "class": "car",
+    "confidence": 0.8589556217193604,
+    "bbox": [
+      792,
+      864,
+      1080,
+      1130
+    ],
+    "timestamp": "2025-08-15 17:28:07.685051",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 288,
+    "class": "car",
+    "confidence": 0.9134494066238403,
+    "bbox": [
+      345,
+      891,
+      1011,
+      1383
+    ],
+    "timestamp": "2025-08-15 17:28:07.729725",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 288,
+    "class": "car",
+    "confidence": 0.8545799255371094,
+    "bbox": [
+      785,
+      864,
+      1078,
+      1138
+    ],
+    "timestamp": "2025-08-15 17:28:07.729725",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 289,
+    "class": "car",
+    "confidence": 0.8822817802429199,
+    "bbox": [
+      335,
+      891,
+      998,
+      1387
+    ],
+    "timestamp": "2025-08-15 17:28:07.773398",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 289,
+    "class": "car",
+    "confidence": 0.8252942562103271,
+    "bbox": [
+      776,
+      861,
+      1077,
+      1126
+    ],
+    "timestamp": "2025-08-15 17:28:07.773398",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 290,
+    "class": "car",
+    "confidence": 0.8980104327201843,
+    "bbox": [
+      324,
+      891,
+      993,
+      1374
+    ],
+    "timestamp": "2025-08-15 17:28:07.817070",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 290,
+    "class": "car",
+    "confidence": 0.8631048798561096,
+    "bbox": [
+      768,
+      862,
+      1075,
+      1125
+    ],
+    "timestamp": "2025-08-15 17:28:07.817070",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 291,
+    "class": "car",
+    "confidence": 0.8782705664634705,
+    "bbox": [
+      319,
+      891,
+      985,
+      1382
+    ],
+    "timestamp": "2025-08-15 17:28:07.866744",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 291,
+    "class": "car",
+    "confidence": 0.8589081168174744,
+    "bbox": [
+      759,
+      861,
+      1067,
+      1133
+    ],
+    "timestamp": "2025-08-15 17:28:07.867745",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 292,
+    "class": "car",
+    "confidence": 0.8673009872436523,
+    "bbox": [
+      309,
+      889,
+      975,
+      1390
+    ],
+    "timestamp": "2025-08-15 17:28:07.917420",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 292,
+    "class": "car",
+    "confidence": 0.7968404293060303,
+    "bbox": [
+      752,
+      862,
+      1061,
+      1132
+    ],
+    "timestamp": "2025-08-15 17:28:07.918420",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 293,
+    "class": "car",
+    "confidence": 0.8859323263168335,
+    "bbox": [
+      301,
+      896,
+      965,
+      1377
+    ],
+    "timestamp": "2025-08-15 17:28:07.963092",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 293,
+    "class": "car",
+    "confidence": 0.7888028025627136,
+    "bbox": [
+      745,
+      862,
+      1055,
+      1132
+    ],
+    "timestamp": "2025-08-15 17:28:07.964092",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 294,
+    "class": "car",
+    "confidence": 0.9144240617752075,
+    "bbox": [
+      295,
+      896,
+      964,
+      1388
+    ],
+    "timestamp": "2025-08-15 17:28:08.008765",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 294,
+    "class": "car",
+    "confidence": 0.7994295954704285,
+    "bbox": [
+      739,
+      863,
+      1047,
+      1136
+    ],
+    "timestamp": "2025-08-15 17:28:08.008765",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 295,
+    "class": "car",
+    "confidence": 0.9020427465438843,
+    "bbox": [
+      289,
+      891,
+      949,
+      1387
+    ],
+    "timestamp": "2025-08-15 17:28:08.053439",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 295,
+    "class": "car",
+    "confidence": 0.6736320853233337,
+    "bbox": [
+      729,
+      864,
+      1041,
+      1132
+    ],
+    "timestamp": "2025-08-15 17:28:08.053439",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 296,
+    "class": "car",
+    "confidence": 0.9115182757377625,
+    "bbox": [
+      280,
+      896,
+      944,
+      1372
+    ],
+    "timestamp": "2025-08-15 17:28:08.099112",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 296,
+    "class": "car",
+    "confidence": 0.6654285788536072,
+    "bbox": [
+      722,
+      865,
+      1031,
+      1132
+    ],
+    "timestamp": "2025-08-15 17:28:08.099112",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 297,
+    "class": "car",
+    "confidence": 0.9123984575271606,
+    "bbox": [
+      273,
+      891,
+      934,
+      1380
+    ],
+    "timestamp": "2025-08-15 17:28:08.146785",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 297,
+    "class": "car",
+    "confidence": 0.6373211145401001,
+    "bbox": [
+      717,
+      864,
+      1020,
+      1132
+    ],
+    "timestamp": "2025-08-15 17:28:08.146785",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 298,
+    "class": "car",
+    "confidence": 0.9149817228317261,
+    "bbox": [
+      268,
+      890,
+      925,
+      1386
+    ],
+    "timestamp": "2025-08-15 17:28:08.198460",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 298,
+    "class": "car",
+    "confidence": 0.5726291537284851,
+    "bbox": [
+      707,
+      867,
+      1016,
+      1130
+    ],
+    "timestamp": "2025-08-15 17:28:08.198460",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 299,
+    "class": "car",
+    "confidence": 0.9008686542510986,
+    "bbox": [
+      262,
+      892,
+      919,
+      1382
+    ],
+    "timestamp": "2025-08-15 17:28:08.247134",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 299,
+    "class": "car",
+    "confidence": 0.5164039731025696,
+    "bbox": [
+      701,
+      866,
+      1013,
+      1133
+    ],
+    "timestamp": "2025-08-15 17:28:08.247134",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 300,
+    "class": "car",
+    "confidence": 0.9157981872558594,
+    "bbox": [
+      256,
+      892,
+      913,
+      1379
+    ],
+    "timestamp": "2025-08-15 17:28:08.296808",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 300,
+    "class": "car",
+    "confidence": 0.7262705564498901,
+    "bbox": [
+      693,
+      865,
+      1006,
+      1132
+    ],
+    "timestamp": "2025-08-15 17:28:08.297808",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 301,
+    "class": "car",
+    "confidence": 0.9171118140220642,
+    "bbox": [
+      249,
+      892,
+      907,
+      1386
+    ],
+    "timestamp": "2025-08-15 17:28:08.344482",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 301,
+    "class": "car",
+    "confidence": 0.7512537837028503,
+    "bbox": [
+      690,
+      866,
+      1000,
+      1135
+    ],
+    "timestamp": "2025-08-15 17:28:08.345482",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 302,
+    "class": "car",
+    "confidence": 0.8931394815444946,
+    "bbox": [
+      239,
+      892,
+      896,
+      1384
+    ],
+    "timestamp": "2025-08-15 17:28:08.395156",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 302,
+    "class": "car",
+    "confidence": 0.6280614733695984,
+    "bbox": [
+      681,
+      868,
+      995,
+      1134
+    ],
+    "timestamp": "2025-08-15 17:28:08.396156",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 303,
+    "class": "car",
+    "confidence": 0.89906245470047,
+    "bbox": [
+      229,
+      893,
+      890,
+      1379
+    ],
+    "timestamp": "2025-08-15 17:28:08.448831",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 303,
+    "class": "car",
+    "confidence": 0.6949156522750854,
+    "bbox": [
+      674,
+      869,
+      988,
+      1131
+    ],
+    "timestamp": "2025-08-15 17:28:08.448831",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 304,
+    "class": "car",
+    "confidence": 0.8907518982887268,
+    "bbox": [
+      219,
+      892,
+      885,
+      1384
+    ],
+    "timestamp": "2025-08-15 17:28:08.495505",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 304,
+    "class": "car",
+    "confidence": 0.6274147629737854,
+    "bbox": [
+      669,
+      870,
+      978,
+      1134
+    ],
+    "timestamp": "2025-08-15 17:28:08.496505",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 305,
+    "class": "car",
+    "confidence": 0.8792117834091187,
+    "bbox": [
+      218,
+      888,
+      876,
+      1388
+    ],
+    "timestamp": "2025-08-15 17:28:08.543178",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 305,
+    "class": "car",
+    "confidence": 0.6990253329277039,
+    "bbox": [
+      662,
+      870,
+      972,
+      1134
+    ],
+    "timestamp": "2025-08-15 17:28:08.544178",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 306,
+    "class": "car",
+    "confidence": 0.8771988749504089,
+    "bbox": [
+      211,
+      889,
+      869,
+      1382
+    ],
+    "timestamp": "2025-08-15 17:28:08.591852",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 306,
+    "class": "car",
+    "confidence": 0.6838921904563904,
+    "bbox": [
+      657,
+      871,
+      967,
+      1131
+    ],
+    "timestamp": "2025-08-15 17:28:08.591852",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 307,
+    "class": "car",
+    "confidence": 0.8884648680686951,
+    "bbox": [
+      205,
+      888,
+      865,
+      1389
+    ],
+    "timestamp": "2025-08-15 17:28:08.639526",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 307,
+    "class": "car",
+    "confidence": 0.6598719358444214,
+    "bbox": [
+      648,
+      871,
+      962,
+      1132
+    ],
+    "timestamp": "2025-08-15 17:28:08.639526",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 308,
+    "class": "car",
+    "confidence": 0.9088006615638733,
+    "bbox": [
+      197,
+      887,
+      853,
+      1382
+    ],
+    "timestamp": "2025-08-15 17:28:08.685199",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 308,
+    "class": "car",
+    "confidence": 0.5757321715354919,
+    "bbox": [
+      643,
+      872,
+      956,
+      1138
+    ],
+    "timestamp": "2025-08-15 17:28:08.686199",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 309,
+    "class": "car",
+    "confidence": 0.9068328142166138,
+    "bbox": [
+      191,
+      887,
+      843,
+      1385
+    ],
+    "timestamp": "2025-08-15 17:28:08.729872",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 309,
+    "class": "car",
+    "confidence": 0.621055543422699,
+    "bbox": [
+      635,
+      874,
+      952,
+      1135
+    ],
+    "timestamp": "2025-08-15 17:28:08.730872",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 310,
+    "class": "car",
+    "confidence": 0.9198712110519409,
+    "bbox": [
+      183,
+      886,
+      840,
+      1374
+    ],
+    "timestamp": "2025-08-15 17:28:08.778546",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 310,
+    "class": "car",
+    "confidence": 0.6353601217269897,
+    "bbox": [
+      631,
+      876,
+      947,
+      1138
+    ],
+    "timestamp": "2025-08-15 17:28:08.778546",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 311,
+    "class": "car",
+    "confidence": 0.9213916063308716,
+    "bbox": [
+      177,
+      889,
+      836,
+      1384
+    ],
+    "timestamp": "2025-08-15 17:28:08.823219",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 311,
+    "class": "car",
+    "confidence": 0.6813854575157166,
+    "bbox": [
+      624,
+      878,
+      942,
+      1138
+    ],
+    "timestamp": "2025-08-15 17:28:08.823219",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 312,
+    "class": "car",
+    "confidence": 0.9167447686195374,
+    "bbox": [
+      175,
+      887,
+      826,
+      1390
+    ],
+    "timestamp": "2025-08-15 17:28:08.866892",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 312,
+    "class": "car",
+    "confidence": 0.5758167505264282,
+    "bbox": [
+      618,
+      879,
+      932,
+      1141
+    ],
+    "timestamp": "2025-08-15 17:28:08.867892",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 313,
+    "class": "car",
+    "confidence": 0.924094557762146,
+    "bbox": [
+      167,
+      886,
+      819,
+      1381
+    ],
+    "timestamp": "2025-08-15 17:28:08.913565",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 313,
+    "class": "car",
+    "confidence": 0.6629965901374817,
+    "bbox": [
+      612,
+      878,
+      926,
+      1137
+    ],
+    "timestamp": "2025-08-15 17:28:08.914566",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 314,
+    "class": "car",
+    "confidence": 0.9301218390464783,
+    "bbox": [
+      163,
+      887,
+      816,
+      1382
+    ],
+    "timestamp": "2025-08-15 17:28:08.964239",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 314,
+    "class": "car",
+    "confidence": 0.7184204459190369,
+    "bbox": [
+      607,
+      879,
+      921,
+      1140
+    ],
+    "timestamp": "2025-08-15 17:28:08.965239",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 315,
+    "class": "car",
+    "confidence": 0.9271800518035889,
+    "bbox": [
+      157,
+      885,
+      811,
+      1386
+    ],
+    "timestamp": "2025-08-15 17:28:09.013914",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 315,
+    "class": "car",
+    "confidence": 0.7807068824768066,
+    "bbox": [
+      599,
+      880,
+      916,
+      1140
+    ],
+    "timestamp": "2025-08-15 17:28:09.014914",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 316,
+    "class": "car",
+    "confidence": 0.9201712012290955,
+    "bbox": [
+      149,
+      885,
+      798,
+      1378
+    ],
+    "timestamp": "2025-08-15 17:28:09.059587",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 316,
+    "class": "car",
+    "confidence": 0.6929766535758972,
+    "bbox": [
+      597,
+      879,
+      915,
+      1157
+    ],
+    "timestamp": "2025-08-15 17:28:09.059587",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 317,
+    "class": "car",
+    "confidence": 0.9170094728469849,
+    "bbox": [
+      143,
+      884,
+      793,
+      1375
+    ],
+    "timestamp": "2025-08-15 17:28:09.105269",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 317,
+    "class": "car",
+    "confidence": 0.7642176747322083,
+    "bbox": [
+      591,
+      883,
+      911,
+      1151
+    ],
+    "timestamp": "2025-08-15 17:28:09.105269",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 318,
+    "class": "car",
+    "confidence": 0.9064102172851562,
+    "bbox": [
+      134,
+      885,
+      790,
+      1382
+    ],
+    "timestamp": "2025-08-15 17:28:09.151943",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 318,
+    "class": "car",
+    "confidence": 0.6587738990783691,
+    "bbox": [
+      585,
+      883,
+      906,
+      1153
+    ],
+    "timestamp": "2025-08-15 17:28:09.151943",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 319,
+    "class": "car",
+    "confidence": 0.9130004644393921,
+    "bbox": [
+      131,
+      881,
+      782,
+      1382
+    ],
+    "timestamp": "2025-08-15 17:28:09.197616",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 319,
+    "class": "car",
+    "confidence": 0.6667932868003845,
+    "bbox": [
+      580,
+      887,
+      901,
+      1148
+    ],
+    "timestamp": "2025-08-15 17:28:09.197616",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 320,
+    "class": "car",
+    "confidence": 0.901505708694458,
+    "bbox": [
+      127,
+      880,
+      775,
+      1384
+    ],
+    "timestamp": "2025-08-15 17:28:09.249281",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 320,
+    "class": "car",
+    "confidence": 0.5532993078231812,
+    "bbox": [
+      575,
+      887,
+      895,
+      1156
+    ],
+    "timestamp": "2025-08-15 17:28:09.250281",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 321,
+    "class": "car",
+    "confidence": 0.9038177132606506,
+    "bbox": [
+      122,
+      878,
+      768,
+      1379
+    ],
+    "timestamp": "2025-08-15 17:28:09.295955",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 321,
+    "class": "car",
+    "confidence": 0.6493727564811707,
+    "bbox": [
+      570,
+      887,
+      895,
+      1150
+    ],
+    "timestamp": "2025-08-15 17:28:09.295955",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 322,
+    "class": "car",
+    "confidence": 0.8791680932044983,
+    "bbox": [
+      118,
+      878,
+      767,
+      1390
+    ],
+    "timestamp": "2025-08-15 17:28:09.340628",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 322,
+    "class": "car",
+    "confidence": 0.5296252369880676,
+    "bbox": [
+      567,
+      889,
+      889,
+      1150
+    ],
+    "timestamp": "2025-08-15 17:28:09.340628",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 323,
+    "class": "car",
+    "confidence": 0.9272028207778931,
+    "bbox": [
+      111,
+      877,
+      759,
+      1381
+    ],
+    "timestamp": "2025-08-15 17:28:09.385301",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 323,
+    "class": "car",
+    "confidence": 0.6178534030914307,
+    "bbox": [
+      560,
+      890,
+      879,
+      1159
+    ],
+    "timestamp": "2025-08-15 17:28:09.385301",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 324,
+    "class": "car",
+    "confidence": 0.9215975999832153,
+    "bbox": [
+      106,
+      877,
+      750,
+      1383
+    ],
+    "timestamp": "2025-08-15 17:28:09.432975",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 324,
+    "class": "car",
+    "confidence": 0.6547690629959106,
+    "bbox": [
+      558,
+      891,
+      875,
+      1173
+    ],
+    "timestamp": "2025-08-15 17:28:09.432975",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 325,
+    "class": "car",
+    "confidence": 0.9073036909103394,
+    "bbox": [
+      100,
+      875,
+      746,
+      1373
+    ],
+    "timestamp": "2025-08-15 17:28:09.479648",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 325,
+    "class": "car",
+    "confidence": 0.7087335586547852,
+    "bbox": [
+      554,
+      892,
+      874,
+      1176
+    ],
+    "timestamp": "2025-08-15 17:28:09.479648",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 326,
+    "class": "car",
+    "confidence": 0.9054211974143982,
+    "bbox": [
+      97,
+      873,
+      743,
+      1377
+    ],
+    "timestamp": "2025-08-15 17:28:09.527321",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 326,
+    "class": "car",
+    "confidence": 0.6505468487739563,
+    "bbox": [
+      551,
+      892,
+      873,
+      1178
+    ],
+    "timestamp": "2025-08-15 17:28:09.527321",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 327,
+    "class": "car",
+    "confidence": 0.9134925007820129,
+    "bbox": [
+      94,
+      873,
+      741,
+      1381
+    ],
+    "timestamp": "2025-08-15 17:28:09.571995",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 327,
+    "class": "car",
+    "confidence": 0.6331668496131897,
+    "bbox": [
+      548,
+      893,
+      872,
+      1180
+    ],
+    "timestamp": "2025-08-15 17:28:09.571995",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 328,
+    "class": "car",
+    "confidence": 0.9280083179473877,
+    "bbox": [
+      90,
+      870,
+      734,
+      1376
+    ],
+    "timestamp": "2025-08-15 17:28:09.616668",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 328,
+    "class": "car",
+    "confidence": 0.7290611267089844,
+    "bbox": [
+      543,
+      894,
+      871,
+      1172
+    ],
+    "timestamp": "2025-08-15 17:28:09.617668",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 329,
+    "class": "car",
+    "confidence": 0.9282819032669067,
+    "bbox": [
+      87,
+      870,
+      730,
+      1377
+    ],
+    "timestamp": "2025-08-15 17:28:09.664341",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 329,
+    "class": "car",
+    "confidence": 0.7607831358909607,
+    "bbox": [
+      541,
+      894,
+      869,
+      1162
+    ],
+    "timestamp": "2025-08-15 17:28:09.664341",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 330,
+    "class": "car",
+    "confidence": 0.929486870765686,
+    "bbox": [
+      82,
+      870,
+      726,
+      1388
+    ],
+    "timestamp": "2025-08-15 17:28:09.713016",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 330,
+    "class": "car",
+    "confidence": 0.7253120541572571,
+    "bbox": [
+      539,
+      895,
+      867,
+      1176
+    ],
+    "timestamp": "2025-08-15 17:28:09.713016",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 331,
+    "class": "car",
+    "confidence": 0.9268086552619934,
+    "bbox": [
+      82,
+      867,
+      723,
+      1381
+    ],
+    "timestamp": "2025-08-15 17:28:09.757689",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 331,
+    "class": "car",
+    "confidence": 0.7183947563171387,
+    "bbox": [
+      536,
+      895,
+      865,
+      1179
+    ],
+    "timestamp": "2025-08-15 17:28:09.757689",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 332,
+    "class": "car",
+    "confidence": 0.9262125492095947,
+    "bbox": [
+      79,
+      864,
+      720,
+      1386
+    ],
+    "timestamp": "2025-08-15 17:28:09.805362",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 332,
+    "class": "car",
+    "confidence": 0.7106973528862,
+    "bbox": [
+      532,
+      896,
+      864,
+      1180
+    ],
+    "timestamp": "2025-08-15 17:28:09.805362",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 333,
+    "class": "car",
+    "confidence": 0.927864134311676,
+    "bbox": [
+      76,
+      863,
+      717,
+      1384
+    ],
+    "timestamp": "2025-08-15 17:28:09.858037",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 333,
+    "class": "car",
+    "confidence": 0.7649025917053223,
+    "bbox": [
+      528,
+      895,
+      860,
+      1174
+    ],
+    "timestamp": "2025-08-15 17:28:09.858037",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 334,
+    "class": "car",
+    "confidence": 0.934141218662262,
+    "bbox": [
+      75,
+      860,
+      712,
+      1374
+    ],
+    "timestamp": "2025-08-15 17:28:09.902711",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 334,
+    "class": "car",
+    "confidence": 0.7702227234840393,
+    "bbox": [
+      523,
+      896,
+      858,
+      1179
+    ],
+    "timestamp": "2025-08-15 17:28:09.902711",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 335,
+    "class": "car",
+    "confidence": 0.9341816902160645,
+    "bbox": [
+      72,
+      856,
+      709,
+      1381
+    ],
+    "timestamp": "2025-08-15 17:28:09.950383",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 335,
+    "class": "car",
+    "confidence": 0.7399197220802307,
+    "bbox": [
+      519,
+      896,
+      857,
+      1176
+    ],
+    "timestamp": "2025-08-15 17:28:09.951384",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 336,
+    "class": "car",
+    "confidence": 0.9308362603187561,
+    "bbox": [
+      69,
+      857,
+      708,
+      1386
+    ],
+    "timestamp": "2025-08-15 17:28:10.000067",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 336,
+    "class": "car",
+    "confidence": 0.775353729724884,
+    "bbox": [
+      518,
+      896,
+      855,
+      1180
+    ],
+    "timestamp": "2025-08-15 17:28:10.000067",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 337,
+    "class": "car",
+    "confidence": 0.9259021878242493,
+    "bbox": [
+      67,
+      854,
+      701,
+      1384
+    ],
+    "timestamp": "2025-08-15 17:28:10.053742",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 337,
+    "class": "car",
+    "confidence": 0.7367873191833496,
+    "bbox": [
+      515,
+      897,
+      853,
+      1180
+    ],
+    "timestamp": "2025-08-15 17:28:10.053742",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 338,
+    "class": "car",
+    "confidence": 0.9199500679969788,
+    "bbox": [
+      66,
+      855,
+      698,
+      1381
+    ],
+    "timestamp": "2025-08-15 17:28:10.102416",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 338,
+    "class": "car",
+    "confidence": 0.7529513239860535,
+    "bbox": [
+      514,
+      896,
+      851,
+      1186
+    ],
+    "timestamp": "2025-08-15 17:28:10.102416",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 339,
+    "class": "car",
+    "confidence": 0.9199459552764893,
+    "bbox": [
+      65,
+      854,
+      694,
+      1385
+    ],
+    "timestamp": "2025-08-15 17:28:10.156091",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 339,
+    "class": "car",
+    "confidence": 0.7855087518692017,
+    "bbox": [
+      513,
+      896,
+      852,
+      1185
+    ],
+    "timestamp": "2025-08-15 17:28:10.156091",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 340,
+    "class": "car",
+    "confidence": 0.9203792214393616,
+    "bbox": [
+      60,
+      851,
+      695,
+      1386
+    ],
+    "timestamp": "2025-08-15 17:28:10.201764",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 340,
+    "class": "car",
+    "confidence": 0.7396625280380249,
+    "bbox": [
+      512,
+      895,
+      851,
+      1184
+    ],
+    "timestamp": "2025-08-15 17:28:10.201764",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 341,
+    "class": "car",
+    "confidence": 0.9206111431121826,
+    "bbox": [
+      58,
+      853,
+      689,
+      1382
+    ],
+    "timestamp": "2025-08-15 17:28:10.246428",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 341,
+    "class": "car",
+    "confidence": 0.7653481960296631,
+    "bbox": [
+      511,
+      894,
+      854,
+      1184
+    ],
+    "timestamp": "2025-08-15 17:28:10.247428",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 342,
+    "class": "car",
+    "confidence": 0.9311782717704773,
+    "bbox": [
+      55,
+      850,
+      686,
+      1379
+    ],
+    "timestamp": "2025-08-15 17:28:10.291101",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 342,
+    "class": "car",
+    "confidence": 0.7622836232185364,
+    "bbox": [
+      510,
+      893,
+      853,
+      1193
+    ],
+    "timestamp": "2025-08-15 17:28:10.291101",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 343,
+    "class": "car",
+    "confidence": 0.9248563647270203,
+    "bbox": [
+      52,
+      847,
+      684,
+      1384
+    ],
+    "timestamp": "2025-08-15 17:28:10.335774",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 343,
+    "class": "car",
+    "confidence": 0.6812607645988464,
+    "bbox": [
+      508,
+      894,
+      852,
+      1189
+    ],
+    "timestamp": "2025-08-15 17:28:10.335774",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 344,
+    "class": "car",
+    "confidence": 0.9152722954750061,
+    "bbox": [
+      51,
+      849,
+      681,
+      1383
+    ],
+    "timestamp": "2025-08-15 17:28:10.381447",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 344,
+    "class": "car",
+    "confidence": 0.5046476125717163,
+    "bbox": [
+      506,
+      897,
+      853,
+      1187
+    ],
+    "timestamp": "2025-08-15 17:28:10.381447",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 345,
+    "class": "car",
+    "confidence": 0.9180368781089783,
+    "bbox": [
+      47,
+      847,
+      678,
+      1381
+    ],
+    "timestamp": "2025-08-15 17:28:10.427120",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 345,
+    "class": "car",
+    "confidence": 0.6081923246383667,
+    "bbox": [
+      505,
+      898,
+      854,
+      1194
+    ],
+    "timestamp": "2025-08-15 17:28:10.428121",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 346,
+    "class": "car",
+    "confidence": 0.9187731146812439,
+    "bbox": [
+      51,
+      843,
+      680,
+      1385
+    ],
+    "timestamp": "2025-08-15 17:28:10.474795",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 346,
+    "class": "car",
+    "confidence": 0.6098244190216064,
+    "bbox": [
+      504,
+      898,
+      853,
+      1192
+    ],
+    "timestamp": "2025-08-15 17:28:10.474795",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 347,
+    "class": "car",
+    "confidence": 0.9207474589347839,
+    "bbox": [
+      46,
+      844,
+      676,
+      1385
+    ],
+    "timestamp": "2025-08-15 17:28:10.526469",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 347,
+    "class": "car",
+    "confidence": 0.5075925588607788,
+    "bbox": [
+      502,
+      896,
+      851,
+      1198
+    ],
+    "timestamp": "2025-08-15 17:28:10.526469",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 348,
+    "class": "car",
+    "confidence": 0.9206671118736267,
+    "bbox": [
+      44,
+      841,
+      677,
+      1385
+    ],
+    "timestamp": "2025-08-15 17:28:10.574142",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 348,
+    "class": "car",
+    "confidence": 0.5219590067863464,
+    "bbox": [
+      501,
+      898,
+      852,
+      1198
+    ],
+    "timestamp": "2025-08-15 17:28:10.575143",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 349,
+    "class": "car",
+    "confidence": 0.9231091141700745,
+    "bbox": [
+      41,
+      842,
+      675,
+      1392
+    ],
+    "timestamp": "2025-08-15 17:28:10.622817",
+    "camera": 5,
+    "location": "outside"
+  },
+  {
+    "frame": 349,
+    "class": "car",
+    "confidence": 0.49930644035339355,
+    "bbox": [
+      501,
+      899,
+      850,
+      1200
+    ],
+    "timestamp": "2025-08-15 17:28:10.622817",
+    "camera": 5,
+    "location": "outside"
+  }
+]

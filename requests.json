@@ -1,0 +1,78 @@
+[
+  {
+    "user": {
+      "request type": "fetch_latest_detections",
+      "parameters": {
+        "camera": "CAM1",
+        "date": null,
+        "location": null
+      }
+    },
+    "Assistant": [
+      {
+        "image": "000000356169.jpg",
+        "class": "car",
+        "confidence": 0.5915552377700806,
+        "bbox": [
+          365,
+          323,
+          381,
+          336
+        ],
+        "camera": "CAM1",
+        "timestamp": "2025-08-12 05:23:30.777668",
+        "location": "street"
+      },
+      {
+        "image": "000000356169.jpg",
+        "class": "car",
+        "confidence": 0.4703880548477173,
+        "bbox": [
+          332,
+          323,
+          357,
+          337
+        ],
+        "camera": "CAM1",
+        "timestamp": "2025-08-12 05:23:30.777668",
+        "location": "street"
+      },
+      {
+        "image": "000000356169.jpg",
+        "class": "car",
+        "confidence": 0.45832645893096924,
+        "bbox": [
+          0,
+          295,
+          56,
+          357
+        ],
+        "camera": "CAM1",
+        "timestamp": "2025-08-12 05:23:30.777668",
+        "location": "street"
+      }
+    ]
+  },
+  {
+    "user": {
+      "request type": "summarize_events",
+      "parameters": {
+        "camera": null,
+        "date": null,
+        "location": "zoo"
+      }
+    },
+    "Assistant": "Summary for {'camera': None, 'date': None, 'location': 'zoo'}: 3 notable detections."
+  },
+  {
+    "user": {
+      "request type": "report_statistics",
+      "parameters": {
+        "camera": "CAM4",
+        "date": null,
+        "location": null
+      }
+    },
+    "Assistant": "Statistics for {'camera': 'CAM4', 'date': None, 'location': None}: 1 detections, 1 unique classes."
+  }
+]

@@ -1,0 +1,7 @@
+faiss==1.5.3
+numpy==2.3.2
+opencv_python==4.7.0.72
+sentence_transformers==5.1.0
+torch==2.3.0
+transformers==4.55.2
+ultralytics==8.3.179

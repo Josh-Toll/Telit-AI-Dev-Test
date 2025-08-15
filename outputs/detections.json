@@ -1,0 +1,240 @@
+[
+  {
+    "image": "000000356125.jpg",
+    "class": "person",
+    "confidence": 0.6741284132003784,
+    "bbox": [
+      0,
+      105,
+      68,
+      237
+    ],
+    "camera": "CAM0",
+    "timestamp": "2025-08-11 12:22:50.382078",
+    "location": "zoo"
+  },
+  {
+    "image": "000000356125.jpg",
+    "class": "person",
+    "confidence": 0.5308698415756226,
+    "bbox": [
+      0,
+      285,
+      68,
+      447
+    ],
+    "camera": "CAM0",
+    "timestamp": "2025-08-11 12:22:50.382078",
+    "location": "zoo"
+  },
+  {
+    "image": "000000356125.jpg",
+    "class": "elephant",
+    "confidence": 0.4960261583328247,
+    "bbox": [
+      11,
+      142,
+      617,
+      461
+    ],
+    "camera": "CAM0",
+    "timestamp": "2025-08-11 12:22:50.382078",
+    "location": "zoo"
+  },
+  {
+    "image": "000000356169.jpg",
+    "class": "car",
+    "confidence": 0.5915552377700806,
+    "bbox": [
+      365,
+      323,
+      381,
+      336
+    ],
+    "camera": "CAM1",
+    "timestamp": "2025-08-12 10:42:38.514340",
+    "location": "street"
+  },
+  {
+    "image": "000000356169.jpg",
+    "class": "car",
+    "confidence": 0.4703880548477173,
+    "bbox": [
+      332,
+      323,
+      357,
+      337
+    ],
+    "camera": "CAM1",
+    "timestamp": "2025-08-12 10:42:38.514340",
+    "location": "street"
+  },
+  {
+    "image": "000000356169.jpg",
+    "class": "car",
+    "confidence": 0.45832645893096924,
+    "bbox": [
+      0,
+      295,
+      56,
+      357
+    ],
+    "camera": "CAM1",
+    "timestamp": "2025-08-12 10:42:38.514340",
+    "location": "street"
+  },
+  {
+    "image": "000000356248.jpg",
+    "class": "chair",
+    "confidence": 0.8738810420036316,
+    "bbox": [
+      10,
+      541,
+      338,
+      639
+    ],
+    "camera": "CAM2",
+    "timestamp": "2025-08-09 13:18:34.585359",
+    "location": "restaurant"
+  },
+  {
+    "image": "000000356248.jpg",
+    "class": "person",
+    "confidence": 0.8287004232406616,
+    "bbox": [
+      55,
+      90,
+      195,
+      251
+    ],
+    "camera": "CAM2",
+    "timestamp": "2025-08-09 13:18:34.585359",
+    "location": "restaurant"
+  },
+  {
+    "image": "000000356248.jpg",
+    "class": "cup",
+    "confidence": 0.7641920447349548,
+    "bbox": [
+      161,
+      249,
+      189,
+      288
+    ],
+    "camera": "CAM2",
+    "timestamp": "2025-08-09 13:18:34.585359",
+    "location": "restaurant"
+  },
+  {
+    "image": "000000356248.jpg",
+    "class": "cup",
+    "confidence": 0.7347244024276733,
+    "bbox": [
+      114,
+      247,
+      145,
+      288
+    ],
+    "camera": "CAM2",
+    "timestamp": "2025-08-09 13:18:34.585359",
+    "location": "restaurant"
+  },
+  {
+    "image": "000000356248.jpg",
+    "class": "person",
+    "confidence": 0.7346225380897522,
+    "bbox": [
+      178,
+      93,
+      312,
+      255
+    ],
+    "camera": "CAM2",
+    "timestamp": "2025-08-09 13:18:34.585359",
+    "location": "restaurant"
+  },
+  {
+    "image": "000000356248.jpg",
+    "class": "person",
+    "confidence": 0.731930673122406,
+    "bbox": [
+      126,
+      234,
+      477,
+      591
+    ],
+    "camera": "CAM2",
+    "timestamp": "2025-08-09 13:18:34.585359",
+    "location": "restaurant"
+  },
+  {
+    "image": "000000356248.jpg",
+    "class": "bottle",
+    "confidence": 0.6908455491065979,
+    "bbox": [
+      0,
+      206,
+      24,
+      274
+    ],
+    "camera": "CAM2",
+    "timestamp": "2025-08-09 13:18:34.585359",
+    "location": "restaurant"
+  },
+  {
+    "image": "000000356248.jpg",
+    "class": "person",
+    "confidence": 0.6421460509300232,
+    "bbox": [
+      144,
+      166,
+      335,
+      400
+    ],
+    "camera": "CAM2",
+    "timestamp": "2025-08-09 13:18:34.585359",
+    "location": "restaurant"
+  },
+  {
+    "image": "000000356248.jpg",
+    "class": "potted plant",
+    "confidence": 0.5457904934883118,
+    "bbox": [
+      63,
+      78,
+      116,
+      159
+    ],
+    "camera": "CAM2",
+    "timestamp": "2025-08-09 13:18:34.585359",
+    "location": "restaurant"
+  },
+  {
+    "image": "000000356261.jpg",
+    "class": "horse",
+    "confidence": 0.9311231970787048,
+    "bbox": [
+      34,
+      260,
+      330,
+      447
+    ],
+    "camera": "CAM3",
+    "timestamp": "2025-08-12 05:48:52.664996",
+    "location": "river"
+  },
+  {
+    "image": "000000376206.jpg",
+    "class": "person",
+    "confidence": 0.7918930649757385,
+    "bbox": [
+      221,
+      166,
+      306,
+      236
+    ],
+    "camera": "CAM4",
+    "timestamp": "2025-08-14 01:40:32.708006",
+    "location": "beach"
+  }
+]
