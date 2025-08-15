@@ -11,7 +11,7 @@ from collections import Counter
 
 
 VIDEO_PATH = "20250815_131659.mp4" 
-OUTPUT_JSON = "temp_video_detections.json"
+OUTPUT_JSON = "video_detections.json"
 CONF_THRES = 0.3
 MODEL_PATH = "yolov8n-seg.pt"
 CLASSES = ["elephant", "person", "car", "horse", "bottle", "cup", "chair", "potted plant"] #these classes can be found in the dataset
