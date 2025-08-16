@@ -11,6 +11,7 @@
        - macOS/Linux: source venv/bin/activate   
        - Windows: venv\Scripts\activate
      - Install the dependencies: pip install -r requirements.txt
+       - If numpy has dependency issues, downgrade to numpy 1.26.4
 
 ## This project contains 3 different python files as well as a notebook file. 
   - The notebook file, "AI_Dev_Home_Test.ipynb" demonstrates how each part of the project works on one file.
